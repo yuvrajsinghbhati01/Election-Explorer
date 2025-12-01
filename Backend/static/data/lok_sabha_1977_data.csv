@@ -1,0 +1,544 @@
+#,PC Name,No,Type,State,Winning Candidate,Party,Electors,Votes,Turnout,Margin,Margin %
+1,Adilabad,35,GEN,Andhra Pradesh,G. Narsimha Reddy,Indian National Congress,"5,48,091","3,10,466",56.6 %,"71,166",22.9%
+2,Adoor,17,GEN,Kerala,P. K. Kodiyan,Communist Party Of India,"5,25,154","4,29,974",81.9 %,"40,567",9.4%
+3,Agra,73,GEN,Uttar Pradesh [1947 - 1999],Shambhu Nath Chaturvedi,Bharatiya Lok Dal,"5,66,094","3,72,202",65.8 %,"1,60,552",43.1%
+4,Ahmedabad,10,GEN,Gujarat,Ahesan Jafri,Indian National Congress,"5,73,286","3,78,527",66.0 %,"10,013",2.6%
+5,Ahmednagar,39,GEN,Maharashtra,Shinde Annasaheb Pandurang,Indian National Congress,"5,75,389","3,34,072",58.1 %,"64,813",19.4%
+6,Ajmer,12,GEN,Rajasthan,Srikaran Sharda,Bharatiya Lok Dal,"5,77,838","3,45,484",59.8 %,"1,04,248",30.2%
+7,Akbarpur,27,SC,Uttar Pradesh [1947 - 1999],Mangal Deo Visharad,Bharatiya Lok Dal,"6,26,897","3,67,714",58.7 %,"2,11,826",57.6%
+8,Akola,19,GEN,Maharashtra,Sathe Vasantrao Purushottam,Indian National Congress,"5,89,719","3,88,243",65.8 %,"61,499",15.8%
+9,Aligarh,76,GEN,Uttar Pradesh [1947 - 1999],Nawab Singh Chauhan,Bharatiya Lok Dal,"6,20,338","4,01,923",64.8 %,"1,90,758",47.5%
+10,Alipurduars,2,ST,West Bengal,Pius Tirkey,Revolutionary Socialist Party,"5,23,297","3,12,975",59.8 %,"40,568",13.0%
+11,Allahabad,56,GEN,Uttar Pradesh [1947 - 1999],Janeshwar Mishra,Bharatiya Lok Dal,"6,25,143","3,38,537",54.2 %,"89,988",26.6%
+12,Alleppey,15,GEN,Kerala,V. M. Sudheeran,Indian National Congress,"5,79,976","4,85,659",83.7 %,"64,016",13.2%
+13,Almora,3,GEN,Uttar Pradesh [1947 - 1999],Murli Manohar Joshi,Bharatiya Lok Dal,"5,71,452","2,50,422",43.8 %,"77,476",30.9%
+14,Alwar,8,GEN,Rajasthan,Ramji Lal Yadav,Bharatiya Lok Dal,"5,70,990","3,18,565",55.8 %,"1,72,478",54.1%
+15,Amalapuram,9,SC,Andhra Pradesh,Kusuma Krishna Murty,Indian National Congress,"6,39,473","4,31,758",67.5 %,"1,35,989",31.5%
+16,Ambala,1,SC,Haryana,Suraj Bhan,Bharatiya Lok Dal,"5,21,047","3,96,269",76.1 %,"1,65,494",41.8%
+17,Amethi,25,GEN,Uttar Pradesh [1947 - 1999],Ravindra Pratap Singh,Bharatiya Lok Dal,"6,23,256","3,02,826",48.6 %,"75,844",25.0%
+18,Amravati,21,GEN,Maharashtra,Bonde Nana Mahadeo,Indian National Congress,"5,81,266","3,71,352",63.9 %,"1,60,662",43.3%
+19,Amreli,7,GEN,Gujarat,Dwarkadas Mohanlal Patel,Indian National Congress,"4,94,073","2,67,457",54.1 %,"59,006",22.1%
+20,Amritsar,2,GEN,Punjab,Baldev Parkash,Bharatiya Lok Dal,"6,74,907","4,84,968",71.9 %,"25,041",5.2%
+21,Amroha,6,GEN,Uttar Pradesh [1947 - 1999],Chandrapal Singh,Bharatiya Lok Dal,"5,75,748","3,59,728",62.5 %,"1,36,494",37.9%
+22,Anakapalli,6,GEN,Andhra Pradesh,Appalanaidu S. R. A. S.,Indian National Congress,"7,08,066","3,78,738",53.5 %,"35,936",9.5%
+23,Anand,20,GEN,Gujarat,Ajitsinh Fulsinh Dabhi,Indian National Congress,"5,64,294","4,01,323",71.1 %,"62,779",15.6%
+24,Anantapur,25,GEN,Andhra Pradesh,Darur Pullaiah,Indian National Congress,"6,40,440","4,01,269",62.7 %,"42,208",10.5%
+25,Anantnag,3,GEN,Jammu & Kashmir,Mohd. Shafi Qureshi,Indian National Congress,"4,71,302","2,63,112",55.8 %,"8,331",3.2%
+26,Andaman & Nicobar Islands,1,GEN,Andaman & Nicobar Islands,Manoranjan Bhakta,Indian National Congress,"85,308","60,590",71.0 %,"10,232",16.9%
+27,Aonla,11,GEN,Uttar Pradesh [1947 - 1999],Brij Raj Singh,Bharatiya Lok Dal,"5,80,011","3,00,461",51.8 %,"1,37,188",45.7%
+28,Arakkonam,6,SC,Tamil Nadu,Alagesan O.V.,Indian National Congress,"6,67,308","4,77,910",71.6 %,"57,864",12.1%
+29,Arambagh,28,GEN,West Bengal,Prafulla Chandra Sen,Bharatiya Lok Dal,"5,80,700","3,98,708",68.7 %,"2,07,437",52.0%
+30,Araria,22,SC,Bihar [1947 - 1999],Mahendra Narayan Sardar,Bharatiya Lok Dal,"5,90,569","3,47,588",58.9 %,"1,08,534",31.2%
+31,Arrah,36,GEN,Bihar [1947 - 1999],Chandradeo Prasad Verma,Bharatiya Lok Dal,"7,17,235","4,66,204",65.0 %,"2,10,877",45.2%
+32,Arunachal East,2,GEN,Arunachal Pradesh,Bakin Pertin,Independent,"93,770","52,764",56.3 %,"7,648",14.5%
+33,Arunachal West,1,GEN,Arunachal Pradesh,Rinchin Khandu Khimre,Indian National Congress,"1,21,887",RU,NA,RU,NA
+34,Asansol,38,SC,West Bengal,Robin Sen,Communist Party Of India (MARXIST),"6,47,254","2,87,229",44.4 %,"72,227",25.1%
+35,Aska,10,GEN,Orissa,Rama Chandra Rath,Indian National Congress,"6,58,693","3,01,729",45.8 %,"3,777",1.3%
+36,Aurangabad,40,GEN,Bihar [1947 - 1999],Satyendra Narain  Singh,Bharatiya Lok Dal,"6,75,445","4,15,024",61.4 %,"1,20,447",29.0%
+37,Aurangabad,33,GEN,Maharashtra,Bapu Kaldate,Bharatiya Lok Dal,"6,56,996","3,69,030",56.2 %,"57,089",15.5%
+38,Autonomous District,3,ST,Assam,Biren Singh Engti,Indian National Congress,"2,27,812","1,00,430",44.1 %,"30,728",30.6%
+39,Azamgarh,45,GEN,Uttar Pradesh [1947 - 1999],Ram Naresh,Bharatiya Lok Dal,"6,32,994","3,62,215",57.2 %,"1,37,810",38.0%
+40,Badagara,3,GEN,Kerala,K. P. Unnikrishnan,Indian National Congress,"6,11,107","5,07,090",83.0 %,"8,070",1.6%
+41,Bagaha,1,SC,Bihar [1947 - 1999],Jagannath Prasad,Bharatiya Lok Dal,"6,02,588","2,80,285",46.5 %,"40,688",14.5%
+42,Bagalkot,27,GEN,Karnataka,Patil Sanganagouda Basangouda,Indian National Congress,"6,26,234","3,66,290",58.5 %,"72,098",19.7%
+43,Baghpat,81,GEN,Uttar Pradesh [1947 - 1999],Chaudhari Charan Singh,Bharatiya Lok Dal,"6,10,712","4,56,968",74.8 %,"1,21,538",26.6%
+44,Bahraich,31,GEN,Uttar Pradesh [1947 - 1999],Om Prakash Tyagi,Bharatiya Lok Dal,"6,53,318","3,13,363",48.0 %,"1,01,419",32.4%
+45,Balaghat,23,GEN,Madhya Pradesh [1947 - 1999],Kacharu Lal Hemraj Jain,Republican Party Of India (KHOBRAGADE),"5,46,723","2,99,484",54.8 %,"49,708",16.6%
+46,Balasore,2,ST,Orissa,Samarendra Kundu,Bharatiya Lok Dal,"6,15,737","3,50,771",57.0 %,"59,461",17.0%
+47,Balia,19,GEN,Bihar [1947 - 1999],Ramajiwan Singh,Bharatiya Lok Dal,"6,39,621","3,83,287",59.9 %,"47,632",12.4%
+48,Ballia,43,GEN,Uttar Pradesh [1947 - 1999],Chandra Shekhar,Bharatiya Lok Dal,"6,61,187","3,69,791",55.9 %,"1,67,218",45.2%
+49,Balrampur,32,GEN,Uttar Pradesh [1947 - 1999],Nanaji Deshmukh,Bharatiya Lok Dal,"6,36,645","3,48,147",54.7 %,"1,14,006",32.7%
+50,Balurghat,6,GEN,West Bengal,Palas Barman,Revolutionary Socialist Party,"5,57,919","3,69,396",66.2 %,"54,563",14.8%
+51,Banaskantha,14,GEN,Gujarat,Chaudhary Motibhai Ranchhodbhai,Bharatiya Lok Dal,"5,05,258","2,83,574",56.1 %,"64,783",22.8%
+52,Banda,59,GEN,Uttar Pradesh [1947 - 1999],Ambika Prasad,Bharatiya Lok Dal,"5,62,759","2,95,306",52.5 %,"57,495",19.5%
+53,Bangalore North,12,GEN,Karnataka,C. K. Jafar Sharif,Indian National Congress,"6,22,416","3,74,502",60.2 %,"40,184",10.7%
+54,Bangalore South,13,GEN,Karnataka,K. S. Hegde,Bharatiya Lok Dal,"6,64,246","4,26,595",64.2 %,"41,165",9.6%
+55,Banka,29,GEN,Bihar [1947 - 1999],Limaye Madhu,Bharatiya Lok Dal,"6,24,645","3,44,437",55.1 %,"1,60,684",46.7%
+56,Bankura,35,GEN,West Bengal,Mondal Bijoy,Bharatiya Lok Dal,"6,03,383","3,20,481",53.1 %,"80,077",25.0%
+57,Bansgaon,37,SC,Uttar Pradesh [1947 - 1999],Phirangi Prasad,Bharatiya Lok Dal,"6,31,621","3,08,310",48.8 %,"1,51,090",49.0%
+58,Banswara,16,GEN,Rajasthan,Heera Bhai,Bharatiya Lok Dal,"5,37,126","3,47,464",64.7 %,"87,399",25.2%
+59,Bapatla,16,GEN,Andhra Pradesh,Ankineedu Prasada Rao Pamulapati,Indian National Congress,"6,88,651","4,81,558",69.9 %,"42,946",8.9%
+60,Bara Banki,29,SC,Uttar Pradesh [1947 - 1999],Ram Kinkar,Bharatiya Lok Dal,"6,02,833","3,05,749",50.7 %,"1,47,411",48.2%
+61,Baramati,43,GEN,Maharashtra,Sambhajirao Kakade,Bharatiya Lok Dal,"6,32,214","3,88,962",61.5 %,"30,700",7.9%
+62,Baramulla,1,GEN,Jammu & Kashmir,Abdul Ahad,Jammu & Kashmir National Conference,"4,53,765","2,58,507",57.0 %,"47,020",18.2%
+63,Barasat,13,SC,West Bengal,Chitta Basu,All India Forward Bloc,"6,09,986","3,72,416",61.1 %,"1,15,794",31.1%
+64,Bareilly,12,GEN,Uttar Pradesh [1947 - 1999],Ram Murti,Bharatiya Lok Dal,"5,63,569","2,99,752",53.2 %,"1,07,685",35.9%
+65,Barh,18,GEN,Bihar [1947 - 1999],Shyam Sunder Gupta,Bharatiya Lok Dal,"6,91,495","4,98,010",72.0 %,"2,70,282",54.3%
+66,Barmer,23,GEN,Rajasthan,Tan Singh,Bharatiya Lok Dal,"6,38,287","3,09,628",48.5 %,"88,325",28.5%
+67,Baroda,22,GEN,Gujarat,Gaekwad Fatesinhrao Pratapsinhrao,Indian National Congress,"5,95,724","4,11,857",69.1 %,"40,923",9.9%
+68,Barpeta,6,GEN,Assam,Ismail Hossain Khan,Indian National Congress,"5,58,853","3,55,264",63.6 %,"48,114",13.5%
+69,Barrackpore,19,SC,West Bengal,Sougata Roy,Indian National Congress,"6,50,725","4,70,018",72.2 %,"1,41,014",30.0%
+70,Basirhat,14,SC,West Bengal,Alhaj M.A. Hannan,Bharatiya Lok Dal,"5,83,782","3,51,244",60.2 %,"12,186",3.5%
+71,Bastar,20,ST,Madhya Pradesh [1947 - 1999],Drigpal Shah Keshri Shah,Bharatiya Lok Dal,"4,95,505","2,12,567",42.9 %,"50,054",23.5%
+72,Basti,34,SC,Uttar Pradesh [1947 - 1999],Sheo Narain,Bharatiya Lok Dal,"6,39,639","3,21,757",50.3 %,"1,40,377",43.6%
+73,Bayana,10,SC,Rajasthan,Shyam Sunder Lal,Bharatiya Lok Dal,"5,95,518","3,42,279",57.5 %,"1,16,688",34.1%
+74,Beed,34,GEN,Maharashtra,Burande Gangadhar Appa,Communist Party Of India (MARXIST),"6,98,692","3,54,660",50.8 %,"51,897",14.6%
+75,Begusarai,33,GEN,Bihar [1947 - 1999],Shyam Nandan Mishra,Bharatiya Lok Dal,"6,74,335","4,26,289",63.2 %,"35,228",8.3%
+76,Belgaum,25,GEN,Karnataka,Kotrashetti Appayappa Karaveerappa,Indian National Congress,"6,29,378","3,31,684",52.7 %,"64,002",19.3%
+77,Bellary,5,SC,Karnataka,K. S. Veera Bhadrappa,Indian National Congress,"5,93,687","3,86,059",65.0 %,"1,45,544",37.7%
+78,Berhampore,10,GEN,West Bengal,Tridip Chaudhuri,Revolutionary Socialist Party,"6,45,013","3,91,275",60.7 %,"1,02,180",26.1%
+79,Berhampur,11,GEN,Orissa,Jagannath Rao R.,Indian National Congress,"6,07,072","2,14,711",35.4 %,"50,089",23.3%
+80,Bettiah,2,GEN,Bihar [1947 - 1999],Fazlur Rahman,Bharatiya Lok Dal,"6,41,326","3,23,082",50.4 %,"96,328",29.8%
+81,Betul,28,GEN,Madhya Pradesh [1947 - 1999],Subhash Chandra Ahuja,Bharatiya Lok Dal,"5,04,032","2,35,157",46.7 %,"26,923",11.4%
+82,Bhadrachalam,5,ST,Andhra Pradesh,Radha Bai Ananda Rao,Indian National Congress,"5,98,925","2,70,495",45.2 %,"95,968",35.5%
+83,Bhadrak,3,GEN,Orissa,Bairagi Jena,Bharatiya Lok Dal,"6,14,684","3,36,054",54.7 %,"71,577",21.3%
+84,Bhagalpur,30,GEN,Bihar [1947 - 1999],Dr. Ramji Singh,Bharatiya Lok Dal,"6,82,880","4,34,658",63.7 %,"1,84,718",42.5%
+85,Bhandara,24,GEN,Maharashtra,Mankar Laxmanrao Bisanji,Bharatiya Lok Dal,"6,07,535","4,04,717",66.6 %,"51,633",12.8%
+86,Bharatpur,9,SC,Rajasthan,Ram Kishan,Bharatiya Lok Dal,"5,71,485","3,71,713",65.0 %,"1,56,489",42.1%
+87,Bhatinda,11,GEN,Punjab,Dhanna Singh,Shiromani Akali Dal,"6,07,613","4,35,035",71.6 %,"1,75,311",40.3%
+88,Bhavnagar,8,SC,Gujarat,Prasannavadan Manilal Methta,Bharatiya Lok Dal,"5,09,755","2,62,543",51.5 %,"11,137",4.2%
+89,Bhilwara,20,ST,Rajasthan,Rooplal Somani,Bharatiya Lok Dal,"6,36,244","3,63,903",57.2 %,"1,28,392",35.3%
+90,Bhind,2,GEN,Madhya Pradesh [1947 - 1999],Raghubir Singh Machhand,Bharatiya Lok Dal,"6,49,212","3,43,476",52.9 %,"1,60,894",46.8%
+91,Bhiwani,8,GEN,Haryana,Chandrawati,Bharatiya Lok Dal,"5,90,889","4,35,502",73.7 %,"1,61,242",37.0%
+92,Bhopal,30,GEN,Madhya Pradesh [1947 - 1999],Arif Beg,Bharatiya Lok Dal,"6,16,993","3,81,028",61.8 %,"1,08,526",28.5%
+93,Bhubaneswar,9,GEN,Orissa,Sivaji Patnaik,Communist Party Of India (MARXIST),"6,09,164","2,46,013",40.4 %,"5,469",2.2%
+94,Bidar,1,GEN,Karnataka,Shankardev Balaji Rao,Indian National Congress,"6,06,711","3,11,925",51.4 %,"50,230",16.1%
+95,Bijapur,28,SC,Karnataka,Choudhari Kalingappa Bhimanna,Indian National Congress,"5,76,941","3,37,433",58.5 %,"21,674",6.4%
+96,Bijnor,5,SC,Uttar Pradesh [1947 - 1999],Mahi Lal,Bharatiya Lok Dal,"5,94,498","3,53,959",59.5 %,"1,95,814",55.3%
+97,Bikaner,2,SC,Rajasthan,Hari Ram Makkasar,Bharatiya Lok Dal,"6,75,406","3,68,614",54.6 %,"1,05,244",28.6%
+98,Bikramganj,39,GEN,Bihar [1947 - 1999],Ram Awadhesh Singh,Bharatiya Lok Dal,"6,92,767","4,25,266",61.4 %,"1,51,751",35.7%
+99,Bilaspur,15,GEN,Madhya Pradesh [1947 - 1999],Niranjan Prasad Kesharwani,Bharatiya Lok Dal,"5,46,085","3,05,653",56.0 %,"12,827",4.2%
+100,Bilhaur,64,GEN,Uttar Pradesh [1947 - 1999],Ram Gopal Singh,Bharatiya Lok Dal,"6,20,424","3,71,190",59.8 %,"1,68,175",45.3%
+101,Birbhum,42,GEN,West Bengal,Gadadhar Saha,Communist Party Of India (MARXIST),"5,53,221","2,88,116",52.1 %,"30,549",10.6%
+102,Bobbili,3,GEN,Andhra Pradesh,Pusapati Vijayrama Gajapathi Raju,Indian National Congress,"6,35,653","3,42,868",53.9 %,"51,588",15.0%
+103,Bolangir,16,SC,Orissa,Ainthu Sahoo,Bharatiya Lok Dal,"5,72,122","2,32,260",40.6 %,"57,724",24.9%
+104,Bolpur,41,SC,West Bengal,Saradish Roy,Communist Party Of India (MARXIST),"5,50,289","2,66,128",48.4 %,"35,951",13.5%
+105,Bombay North,9,SC,Maharashtra,Gore Mrinal Keshav,Bharatiya Lok Dal,"6,59,985","4,22,795",64.1 %,"1,47,090",34.8%
+106,Bombay North Central,6,GEN,Maharashtra,Ahilya P. Rangnekar,Communist Party Of India (MARXIST),"6,77,049","4,01,104",59.2 %,"69,915",17.4%
+107,Bombay North East,7,SC,Maharashtra,Subramaniam Swamy,Bharatiya Lok Dal,"6,97,754","4,31,636",61.9 %,"1,23,122",28.5%
+108,Bombay North West,8,GEN,Maharashtra,Ram Jethmalani,Bharatiya Lok Dal,"6,43,901","4,09,025",63.5 %,"93,499",22.9%
+109,Bombay South,4,GEN,Maharashtra,Rajada Ratansingh Gokuldas,Bharatiya Lok Dal,"6,85,196","4,05,754",59.2 %,"64,394",15.9%
+110,Bombay South Central,5,GEN,Maharashtra,Kamble Bapu Chandrasen,Bharatiya Lok Dal,"6,55,937","3,87,772",59.1 %,"53,703",13.8%
+111,Broach,23,ST,Gujarat,Patel Ahmedbhai  Mohmadbhai,Indian National Congress,"5,44,523","3,45,057",63.4 %,"62,879",18.2%
+112,Budaun,10,GEN,Uttar Pradesh [1947 - 1999],Onkar Singh,Bharatiya Lok Dal,"6,02,666","3,47,350",57.6 %,"1,42,652",41.1%
+113,Bulandshahr,78,GEN,Uttar Pradesh [1947 - 1999],Mahmood Hassan Khan,Bharatiya Lok Dal,"6,29,818","4,08,756",64.9 %,"2,11,013",51.6%
+114,Buldhana,18,GEN,Maharashtra,Gawai Daulat Gunaji,Republican Party Of India (KHOBRAGADE),"5,80,389","3,52,690",60.8 %,"42,855",12.2%
+115,Bulsar,26,ST,Gujarat,Patel Nanubhai Nichhabhai,Bharatiya Lok Dal,"5,56,415","3,30,000",59.3 %,"17,964",5.4%
+116,Burdwan,39,GEN,West Bengal,Raj Krishna Dawn,Bharatiya Lok Dal,"6,38,853","3,63,202",56.9 %,"71,003",19.5%
+117,Buxar,37,GEN,Bihar [1947 - 1999],Rama Nand Tiwary,Bharatiya Lok Dal,"7,05,022","4,46,815",63.4 %,"2,03,713",45.6%
+118,Calcutta North East,22,GEN,West Bengal,Pratap Chandra Chunder,Bharatiya Lok Dal,"6,41,747","3,61,255",56.3 %,"1,29,759",35.9%
+119,Calcutta North West,21,GEN,West Bengal,Bijoy Singh Nahar,Bharatiya Lok Dal,"5,95,840","3,21,742",54.0 %,"69,633",21.6%
+120,Calcutta South,23,GEN,West Bengal,Dilip Chakravarty,Bharatiya Lok Dal,"6,54,202","3,98,561",60.9 %,"67,940",17.0%
+121,Calicut,4,GEN,Kerala,V. A. Seyid Muhammad,Indian National Congress,"5,59,054","4,57,067",81.8 %,"13,704",3.0%
+122,Cannanore,2,GEN,Kerala,C. K. Chandrappan,Communist Party Of India,"5,53,360","4,57,869",82.7 %,"12,877",2.8%
+123,Chail,57,SC,Uttar Pradesh [1947 - 1999],Ram Nihor Rakesh,Bharatiya Lok Dal,"6,24,372","2,56,616",41.1 %,"1,16,721",45.5%
+124,Chamarajanagar,15,GEN,Karnataka,B. Rachaiah,Indian National Congress,"6,06,937","4,00,768",66.0 %,"71,618",17.9%
+125,Chandauli,51,GEN,Uttar Pradesh [1947 - 1999],Narsingh,Bharatiya Lok Dal,"6,04,665","3,98,509",65.9 %,"2,04,416",51.3%
+126,Chandigarh,1,GEN,Chandigarh,Krishna Kant,Bharatiya Lok Dal,"1,60,963","1,08,494",67.4 %,"40,426",37.3%
+127,Chandni Chowk,5,SC,Delhi [1977 Onwards],Sikandar Bakht,Bharatiya Lok Dal,"3,13,714","2,60,313",83.0 %,"1,15,989",44.6%
+128,Chandrapur,26,GEN,Maharashtra,Raje Vishveshvarrao,Bharatiya Lok Dal,"5,94,026","3,92,636",66.1 %,"88,986",22.7%
+129,Chapra,7,GEN,Bihar [1947 - 1999],Lalu Prasad,Bharatiya Lok Dal,"6,58,829","4,86,806",73.9 %,"3,73,800",76.8%
+130,Chatra,44,GEN,Bihar [1947 - 1999],Sukdeo Prasad Verma,Bharatiya Lok Dal,"5,80,623","2,78,508",48.0 %,"1,43,534",51.5%
+131,Chengalpattu,5,GEN,Tamil Nadu,Mohanarangam R.,All India Anna Dravida Munnetra Kazhagam,"6,30,334","4,61,557",73.2 %,"35,639",7.7%
+132,Chhindwara,27,GEN,Madhya Pradesh [1947 - 1999],Gargishankar Ramkrishna Mishra,Indian National Congress,"5,14,364","2,43,307",47.3 %,"2,369",1.0%
+133,Chhota Udaipur,21,ST,Gujarat,Rathawa Amarsinh Viriyabhai,Indian National Congress,"5,33,507","3,21,022",60.2 %,"41,123",12.8%
+134,Chidambaram,12,GEN,Tamil Nadu,Murugesan A.,All India Anna Dravida Munnetra Kazhagam,"6,63,634","4,59,817",69.3 %,"1,09,234",23.8%
+135,Chikballapur,9,ST,Karnataka,M. V. Krishnappa,Indian National Congress,"6,27,230","4,08,854",65.2 %,"48,474",11.9%
+136,Chikkodi,26,GEN,Karnataka,B Shankaranand,Indian National Congress,"5,71,003","3,32,755",58.3 %,"45,500",13.7%
+137,Chikmagalur,20,GEN,Karnataka,D. B. Chandre Gowda,Indian National Congress,"5,34,676","3,62,993",67.9 %,"64,568",17.8%
+138,Chimur,25,GEN,Maharashtra,Thakur Krishnarao Dagoji,Indian National Congress,"6,31,759","4,49,794",71.2 %,"62,969",14.0%
+139,Chirayinkil,19,GEN,Kerala,Vayalar Ravi,Indian National Congress,"5,64,054","4,25,651",75.5 %,"60,925",14.3%
+140,Chitradurga,7,GEN,Karnataka,K. Mallanna,Indian National Congress,"6,19,838","3,82,855",61.8 %,"86,654",22.6%
+141,Chittoor,21,GEN,Andhra Pradesh,P. Rajagopal Naidu,Indian National Congress,"6,99,218","4,72,389",67.6 %,"10,447",2.2%
+142,Chittorgarh,19,ST,Rajasthan,Shyam Sunder,Bharatiya Lok Dal,"6,01,379","3,33,384",55.4 %,"1,37,682",41.3%
+143,Churu,3,GEN,Rajasthan,Daulat Ram,Bharatiya Lok Dal,"6,21,315","3,78,811",61.0 %,"1,52,891",40.4%
+144,Coimbatore,20,GEN,Tamil Nadu,Parvathi Krishnan,Communist Party Of India,"7,43,258","5,23,180",70.4 %,"21,178",4.0%
+145,Contai,31,GEN,West Bengal,Guha Samar,Bharatiya Lok Dal,"5,81,866","3,88,122",66.7 %,"1,94,514",50.1%
+146,Cooch Behar,1,SC,West Bengal,Amrendranath Roy Pradhan,All India Forward Bloc,"5,70,556","3,63,908",63.8 %,"1,02,858",28.3%
+147,Cuddalore,11,GEN,Tamil Nadu,Bhuvarahan G.,Indian National Congress,"6,44,882","4,29,893",66.7 %,"89,057",20.7%
+148,Cuddapah,23,GEN,Andhra Pradesh,Kandala Obul Reddy,Indian National Congress,"6,98,750","4,87,025",69.7 %,"7,562",1.6%
+149,Cuttack,6,GEN,Orissa,Sarat Kumar Kar,Bharatiya Lok Dal,"6,23,921","3,30,152",52.9 %,"60,402",18.3%
+150,Dadra & Nagar Haveli,1,GEN,Dadra & Nagar Haveli,Patel Ramubhai Ravjibhai,Indian National Congress,"37,532","25,706",68.5 %,"3,646",14.2%
+151,Dahanu,11,GEN,Maharashtra,Kom Lahanu Shidava,Communist Party Of India (MARXIST),"6,29,624","3,11,918",49.5 %,"52,666",16.9%
+152,Dahod,17,GEN,Gujarat,Damor Somjibhai Pujabhai,Indian National Congress,"5,08,980","1,84,171",36.2 %,"3,393",1.8%
+153,Daman And Diu,1,GEN,Daman & Diu,Data Not Available,-,-,-,-,-,-
+154,Damoh,7,GEN,Madhya Pradesh [1947 - 1999],Narendra Singh Yadvendra Singh,Bharatiya Lok Dal,"6,24,578","3,65,679",58.6 %,"1,49,419",40.9%
+155,Darbhanga,15,GEN,Bihar [1947 - 1999],Surendra Jha Suman,Bharatiya Lok Dal,"6,35,811","4,22,293",66.4 %,"2,12,002",50.2%
+156,Darjeeling,4,GEN,West Bengal,Krishna Bahadur Chettri,Indian National Congress,"6,24,898","2,72,135",43.6 %,"18,480",6.8%
+157,Dausa,7,GEN,Rajasthan,Nathu Singh,Bharatiya Lok Dal,"6,22,623","3,38,872",54.4 %,"1,63,403",48.2%
+158,Davangere,6,ST,Karnataka,Kondajji Basappa,Indian National Congress,"6,13,519","4,25,341",69.3 %,"92,122",21.7%
+159,Delhi Sadar,6,GEN,Delhi [1977 Onwards],Kanwar Lal Gupta,Bharatiya Lok Dal,"3,09,550","2,19,842",71.0 %,"79,871",36.3%
+160,Deogarh,18,GEN,Orissa,Pabitra Mohan Pradhan,Bharatiya Lok Dal,"6,11,756","2,58,428",42.2 %,"10,042",3.9%
+161,Deoria,41,GEN,Uttar Pradesh [1947 - 1999],Ugrasen,Bharatiya Lok Dal,"6,62,864","3,44,697",52.0 %,"1,82,173",52.9%
+162,Dhanbad,47,GEN,Bihar [1947 - 1999],A. K. Roy,Independent,"6,75,439","3,06,590",45.4 %,"1,41,849",46.3%
+163,Dhandhuka,9,GEN,Gujarat,Parmar Natavarlal Bhagavandas,Bharatiya Lok Dal,"5,49,416","2,83,228",51.6 %,"27,766",9.8%
+164,Dhar,36,ST,Madhya Pradesh [1947 - 1999],Bharat Singh Gulab Singh,Bharatiya Lok Dal,"5,42,947","3,22,804",59.5 %,"45,374",14.1%
+165,Dharmapuri,13,SC,Tamil Nadu,Ramamurthy K.,Indian National Congress,"6,31,245","4,08,446",64.7 %,"1,05,686",25.9%
+166,Dharwad North,24,GEN,Karnataka,Mahishi Sarojini Bindurao,Indian National Congress,"5,35,385","3,68,014",68.7 %,"54,428",14.8%
+167,Dharwad South,23,GEN,Karnataka,Mohsin F. H.,Indian National Congress,"5,75,791","4,07,647",70.8 %,"91,940",22.6%
+168,Dhenkanal,19,GEN,Orissa,Debendra Satpathy,Bharatiya Lok Dal,"5,90,280","2,61,634",44.3 %,"44,660",17.1%
+169,Dhubri,4,GEN,Assam,Ahmmad Hossen,Indian National Congress,"5,03,545","3,40,929",67.7 %,590,0.2%
+170,Dhulia,14,GEN,Maharashtra,Patil Vijaykumar Naval,Indian National Congress,"5,52,925","3,25,324",58.8 %,"52,149",16.0%
+171,Diamond Harbour,17,GEN,West Bengal,Jyotirmoy Basu,Communist Party Of India (MARXIST),"6,08,458","3,89,100",64.0 %,"1,56,404",40.2%
+172,Dibrugarh,13,GEN,Assam,Haren Bhumji,Indian National Congress,"5,02,862","2,48,898",49.5 %,"14,209",5.7%
+173,Dindigul,23,GEN,Tamil Nadu,Maya Thevar K.,All India Anna Dravida Munnetra Kazhagam,"7,21,154","4,83,612",67.1 %,"1,69,224",35.0%
+174,Domariaganj,35,GEN,Uttar Pradesh [1947 - 1999],Madhav Prasad Tripathi,Bharatiya Lok Dal,"6,57,832","4,01,100",61.0 %,"1,58,826",39.6%
+175,Dum Dum,20,SC,West Bengal,Asoke Krishna Dutt,Bharatiya Lok Dal,"6,98,781","4,31,362",61.7 %,"21,780",5.0%
+176,Dumka,27,ST,Bihar [1947 - 1999],Bateshwar Hemram,Bharatiya Lok Dal,"5,79,061","2,39,826",41.4 %,"53,254",22.2%
+177,Durg,21,GEN,Madhya Pradesh [1947 - 1999],Mohan Bhaiya,Bharatiya Lok Dal,"6,02,735","3,56,029",59.1 %,"51,575",14.5%
+178,Durgapur,37,SC,West Bengal,Krishna Chandra Haldar,Communist Party Of India (MARXIST),"6,77,500","3,59,280",53.0 %,"91,431",25.4%
+179,East Delhi,4,GEN,Delhi [1977 Onwards],Kishore Lal,Bharatiya Lok Dal,"5,11,716","3,58,854",70.1 %,"1,33,107",37.1%
+180,Eluru,11,GEN,Andhra Pradesh,Kommareddy Suryanarayana,Indian National Congress,"6,69,778","4,67,438",69.8 %,"1,34,033",28.7%
+181,Erandol,16,GEN,Maharashtra,Patil Sonusing Dhansing,Bharatiya Lok Dal,"5,97,821","3,65,421",61.1 %,"13,814",3.8%
+182,Ernakulam,11,GEN,Kerala,Henry Austin,Indian National Congress,"5,82,804","4,67,048",80.1 %,"7,285",1.6%
+183,Etah,71,GEN,Uttar Pradesh [1947 - 1999],Mahadeepak Singh,Bharatiya Lok Dal,"5,64,767","3,78,143",67.0 %,"1,81,520",48.0%
+184,Etawah,66,GEN,Uttar Pradesh [1947 - 1999],Arjun Singh Bhadoria,Bharatiya Lok Dal,"5,89,325","3,70,214",62.8 %,"2,10,165",56.8%
+185,Faizabad,28,GEN,Uttar Pradesh [1947 - 1999],Anant Ram Jaiswal,Bharatiya Lok Dal,"6,14,376","3,16,102",51.5 %,"1,47,803",46.8%
+186,Faridabad,6,GEN,Haryana,Dharam Vir Vasisht,Bharatiya Lok Dal,"6,01,224","4,25,700",70.8 %,"27,333",6.4%
+187,Faridkot,12,GEN,Punjab,Parkash Singh,Shiromani Akali Dal,"6,46,094","4,87,098",75.4 %,"1,00,701",20.7%
+188,Farrukhabad,68,GEN,Uttar Pradesh [1947 - 1999],Daya Ram Shakya,Bharatiya Lok Dal,"6,37,847","3,73,816",58.6 %,"1,86,425",49.9%
+189,Fatehpur,58,GEN,Uttar Pradesh [1947 - 1999],Bashir Ahmad,Bharatiya Lok Dal,"6,14,485","2,95,191",48.0 %,"1,70,489",57.8%
+190,Ferozepur,13,GEN,Punjab,Mohinder Singh Sayanwala,Shiromani Akali Dal,"6,31,895","2,06,656",32.7 %,"1,63,939",79.3%
+191,Firozabad,72,SC,Uttar Pradesh [1947 - 1999],Ramji Lal Suman,Bharatiya Lok Dal,"6,11,215","3,21,138",52.5 %,"1,56,764",48.8%
+192,Gandhinagar,11,GEN,Gujarat,Purushottam Ganesh Mavalankar,Bharatiya Lok Dal,"6,19,720","3,94,699",63.7 %,"60,117",15.2%
+193,Ganganagar,1,SC,Rajasthan,Bega Ram,Bharatiya Lok Dal,"6,04,428","3,70,934",61.4 %,"65,355",17.6%
+194,Garhwal,2,GEN,Uttar Pradesh [1947 - 1999],Jagannath Sharma,Bharatiya Lok Dal,"5,63,082","2,67,720",47.6 %,"1,04,593",39.1%
+195,Gauhati,7,GEN,Assam,Renuka Devi Barktaki,Bharatiya Lok Dal,"5,53,272","2,91,598",52.7 %,"36,440",12.5%
+196,Gaya,43,SC,Bihar [1947 - 1999],Ishwar Chaudhry,Bharatiya Lok Dal,"6,42,305","4,45,024",69.3 %,"2,48,318",55.8%
+197,Ghatampur,63,SC,Uttar Pradesh [1947 - 1999],Jwala Prasad Kureel,Bharatiya Lok Dal,"6,07,421","3,64,722",60.0 %,"1,85,504",50.9%
+198,Ghazipur,50,GEN,Uttar Pradesh [1947 - 1999],Gauri Shanker Rai,Bharatiya Lok Dal,"6,39,586","3,72,070",58.2 %,"94,345",25.4%
+199,Ghosi,44,GEN,Uttar Pradesh [1947 - 1999],Shivram,Bharatiya Lok Dal,"6,26,672","3,54,670",56.6 %,"1,13,632",32.0%
+200,Giridih,46,GEN,Bihar [1947 - 1999],Ram Das Singh,Bharatiya Lok Dal,"5,81,187","2,90,760",50.0 %,"78,277",26.9%
+201,Gobichettipalayam,19,SC,Tamil Nadu,Ramaswamy K.S.,Indian National Congress,"6,48,924","4,49,419",69.3 %,"1,05,458",23.5%
+202,Godda,28,GEN,Bihar [1947 - 1999],Jagdambi Prasad Yadav,Bharatiya Lok Dal,"6,30,768","3,65,300",57.9 %,"1,58,991",43.5%
+203,Godhra,18,GEN,Gujarat,Desai Hitendrabhai Kanaiyalal,Indian National Congress,"5,17,416","2,95,163",57.1 %,"1,380",0.5%
+204,Gonda,33,GEN,Uttar Pradesh [1947 - 1999],Satya Deo Singh,Bharatiya Lok Dal,"6,01,635","2,72,227",45.3 %,"71,273",26.2%
+205,Gopalganj,4,GEN,Bihar [1947 - 1999],Dwarikanath Tiwary,Bharatiya Lok Dal,"6,74,703","4,25,830",63.1 %,"1,72,992",40.6%
+206,Gorakhpur,38,GEN,Uttar Pradesh [1947 - 1999],Harikesh Bahadur,Bharatiya Lok Dal,"5,70,532","3,27,828",57.5 %,"1,83,054",55.8%
+207,Gulbarga,2,GEN,Karnataka,Sidram Reddi,Indian National Congress,"6,29,721","3,22,935",51.3 %,"85,392",26.4%
+208,Guna,4,GEN,Madhya Pradesh [1947 - 1999],Madhav Rao Scindia,Independent,"6,34,123","3,36,579",53.1 %,"76,451",22.7%
+209,Guntur,15,GEN,Andhra Pradesh,Kotha Raghuramaiah,Indian National Congress,"7,90,342","5,18,885",65.7 %,"85,529",16.5%
+210,Gurdaspur,1,GEN,Punjab,Yagya Datt,Bharatiya Lok Dal,"5,63,497","4,12,085",73.1 %,"28,122",6.8%
+211,Gwalior,3,GEN,Madhya Pradesh [1947 - 1999],Narayan Krishna Shejwalker,Bharatiya Lok Dal,"5,87,078","3,38,230",57.6 %,"1,52,192",45.0%
+212,Hajipur,8,SC,Bihar [1947 - 1999],Ram Vilas Paswan,Bharatiya Lok Dal,"6,86,969","5,29,440",77.1 %,"4,24,545",80.2%
+213,Hamirpur,4,SC,Himachal Pradesh,Ranjit Singh,Bharatiya Lok Dal,"5,24,805","3,23,501",61.6 %,"50,122",15.5%
+214,Hamirpur,60,GEN,Uttar Pradesh [1947 - 1999],Tej Pratap Singh,Bharatiya Lok Dal,"5,49,096","3,17,289",57.8 %,"81,275",25.6%
+215,Hanamkonda,38,GEN,Andhra Pradesh,P. V. Narsimha Rao,Indian National Congress,"6,15,143","4,03,940",65.7 %,"77,683",19.2%
+216,Hapur,79,GEN,Uttar Pradesh [1947 - 1999],Kunwar Mahood Ali Khan,Bharatiya Lok Dal,"6,31,729","4,32,445",68.5 %,"1,35,397",31.3%
+217,Hardoi,19,SC,Uttar Pradesh [1947 - 1999],Parmai Lal,Bharatiya Lok Dal,"5,95,289","3,10,249",52.1 %,"1,14,287",36.8%
+218,Hardwar,85,SC,Uttar Pradesh [1947 - 1999],Bhagwan Dass,Bharatiya Lok Dal,"5,54,184","3,63,336",65.6 %,"1,77,203",48.8%
+219,Hassan,19,GEN,Karnataka,S. Nanjesha Gowda,Bharatiya Lok Dal,"6,19,773","4,29,300",69.3 %,"1,081",0.3%
+220,Hathras,75,SC,Uttar Pradesh [1947 - 1999],Ram Prasad Deshmukh,Bharatiya Lok Dal,"6,48,461","4,01,699",62.0 %,"2,07,925",51.8%
+221,Hazaribagh,48,GEN,Bihar [1947 - 1999],Kunwar Basant Narain Singh,Bharatiya Lok Dal,"6,18,989","2,95,432",47.7 %,"1,41,117",47.8%
+222,Hindupur,24,GEN,Andhra Pradesh,P. Bayapa Reddy,Indian National Congress,"6,50,347","4,02,073",61.8 %,"90,033",22.4%
+223,Hingoli,29,GEN,Maharashtra,Patil Chandrakant Ramkrishna,Bharatiya Lok Dal,"5,96,387","3,22,463",54.1 %,"35,751",11.1%
+224,Hissar,9,GEN,Haryana,Inder Singh,Bharatiya Lok Dal,"5,53,756","4,09,400",73.9 %,"2,43,384",59.4%
+225,Hooghly,27,GEN,West Bengal,Bijoy Krishna Modak,Communist Party Of India (MARXIST),"5,60,707","3,67,205",65.5 %,"1,06,259",28.9%
+226,Hoshangabad,29,GEN,Madhya Pradesh [1947 - 1999],Kamath Hari Vishnu,Bharatiya Lok Dal,"5,61,979","3,27,492",58.3 %,"1,08,171",33.0%
+227,Hoshiarpur,6,GEN,Punjab,Balbir Singh,Bharatiya Lok Dal,"6,26,330","4,27,246",68.2 %,"1,14,617",26.8%
+228,Howrah,24,GEN,West Bengal,Samar Mukherjee 11dharmatala Lane,Communist Party Of India (MARXIST),"6,69,642","3,89,263",58.1 %,"1,04,731",26.9%
+229,Hyderabad,30,GEN,Andhra Pradesh,K. S. Narayana,Indian National Congress,"5,86,201","3,51,047",59.9 %,"65,068",18.5%
+230,Ichalkaranji,47,GEN,Maharashtra,Mane Rajaram Alias Balasaheb Shankarrao,Indian National Congress,"5,75,336","3,99,422",69.4 %,"33,364",8.4%
+231,Idukki,14,GEN,Kerala,C. M. Stephen,Indian National Congress,"5,78,434","4,26,869",73.8 %,"79,257",18.6%
+232,Indore,37,GEN,Madhya Pradesh [1947 - 1999],Kalyan Jain,Bharatiya Lok Dal,"5,60,665","3,63,014",64.8 %,"36,636",10.1%
+233,Inner Manipur,1,GEN,Manipur,N. Tombi Singh,Indian National Congress,"4,07,918","2,51,631",61.7 %,"25,659",10.2%
+234,Jabalpur,25,GEN,Madhya Pradesh [1947 - 1999],Sharad Yadav,Bharatiya Lok Dal,"5,87,198","3,41,316",58.1 %,"75,891",22.2%
+235,Jadavpur,18,GEN,West Bengal,Somnath Chatterjee,Communist Party Of India (MARXIST),"6,24,264","3,56,636",57.1 %,"1,38,635",38.9%
+236,Jagatsinghpur,7,SC,Orissa,Pradyumna Kishore Bal,Bharatiya Lok Dal,"6,54,214","4,10,182",62.7 %,"1,09,951",26.8%
+237,Jahanabad,41,GEN,Bihar [1947 - 1999],Hari Lal Prasad Sinha,Bharatiya Lok Dal,"7,51,428","4,99,226",66.4 %,"2,50,970",50.3%
+238,Jaipur,6,GEN,Rajasthan,Satish Chander,Bharatiya Lok Dal,"6,10,124","3,57,974",58.7 %,"1,89,482",52.9%
+239,Jajpur,4,ST,Orissa,Rama Chandra Mallick,Bharatiya Lok Dal,"6,11,181","3,16,767",51.8 %,"49,660",15.7%
+240,Jalaun,62,SC,Uttar Pradesh [1947 - 1999],Ramcharan,Bharatiya Lok Dal,"6,02,642","3,75,548",62.3 %,"1,85,275",49.3%
+241,Jalesar,70,GEN,Uttar Pradesh [1947 - 1999],Multan Singh Chaudhary,Bharatiya Lok Dal,"5,76,262","3,70,895",64.4 %,"2,06,546",55.7%
+242,Jalgaon,17,GEN,Maharashtra,Borole Yashwant Mansaram,Bharatiya Lok Dal,"5,89,742","3,62,064",61.4 %,"12,186",3.4%
+243,Jalna,32,GEN,Maharashtra,Pundalik Hari Danve,Bharatiya Lok Dal,"6,15,197","3,26,829",53.1 %,"24,574",7.5%
+244,Jalore,22,GEN,Rajasthan,Hukam Ram,Bharatiya Lok Dal,"6,48,497","2,99,420",46.2 %,"56,002",18.7%
+245,Jalpaiguri,3,SC,West Bengal,Khagendra Nath Dasgupta,Independent,"5,29,606","3,15,866",59.6 %,"57,698",18.3%
+246,Jammu,6,GEN,Jammu & Kashmir,Thakur Baldev Singh,Independent,"6,01,007","3,55,660",59.2 %,"27,939",7.9%
+247,Jamnagar,3,GEN,Gujarat,Vinodbhai B. Sheth,Bharatiya Lok Dal,"4,79,585","2,51,803",52.5 %,"2,670",1.1%
+248,Jamshedpur,50,GEN,Bihar [1947 - 1999],Rudra Pratap Sarangi,Bharatiya Lok Dal,"5,75,923","2,69,834",46.9 %,"63,753",23.6%
+249,Jangipur,8,GEN,West Bengal,Sasankasekher Sanyal,Communist Party Of India (MARXIST),"5,65,255","3,28,222",58.1 %,"2,186",0.7%
+250,Janjgir,14,GEN,Madhya Pradesh [1947 - 1999],Madan Bhaiya,Bharatiya Lok Dal,"5,81,342","2,58,652",44.5 %,"13,569",5.2%
+251,Jaunpur,48,GEN,Uttar Pradesh [1947 - 1999],Yadvendra Dutta Dubey,Bharatiya Lok Dal,"6,16,192","3,40,943",55.3 %,"99,872",29.3%
+252,Jhabua,39,ST,Madhya Pradesh [1947 - 1999],Bhagirath Bhawar,Bharatiya Lok Dal,"5,18,465","2,67,704",51.6 %,"62,672",23.4%
+253,Jhalawar,15,GEN,Rajasthan,Chaturbhuj,Bharatiya Lok Dal,"5,49,344","3,43,827",62.6 %,"1,31,617",38.3%
+254,Jhanjharpur,14,GEN,Bihar [1947 - 1999],Dhanik Lal Mandal,Bharatiya Lok Dal,"6,29,783","4,70,515",74.7 %,"1,57,481",33.5%
+255,Jhansi,61,GEN,Uttar Pradesh [1947 - 1999],Sushila Naiyar,Bharatiya Lok Dal,"6,33,446","3,51,040",55.4 %,"1,30,485",37.2%
+256,Jhargram,33,ST,West Bengal,Jadunath Kisku,Communist Party Of India (MARXIST),"5,75,907","3,58,585",62.3 %,"47,595",13.3%
+257,Jhunjhunu,4,GEN,Rajasthan,Kanhaiya Lal,Bharatiya Lok Dal,"6,81,587","3,68,888",54.1 %,"1,26,951",34.4%
+258,Jodhpur,24,GEN,Rajasthan,Ranchordas Gattani,Bharatiya Lok Dal,"6,10,912","3,52,632",57.7 %,"21,685",6.1%
+259,Jorhat,12,GEN,Assam,Tarun Gogoi,Indian National Congress,"5,85,721","3,11,008",53.1 %,"28,687",9.2%
+260,Joynagar,15,GEN,West Bengal,Sakti Kumar Sarkar,Bharatiya Lok Dal,"6,26,050","3,80,213",60.7 %,"60,637",15.9%
+261,Jullundur,4,SC,Punjab,Iqbal Singh Dhillon,Shiromani Akali Dal,"5,92,262","4,27,902",72.3 %,"1,18,108",27.6%
+262,Junagadh,6,GEN,Gujarat,Nathwani Narendra Pragji,Bharatiya Lok Dal,"5,16,292","3,35,230",64.9 %,"11,853",3.5%
+263,Kaira,19,ST,Gujarat,Desai Dharmsingh Dadubhai,Indian National Congress,"5,73,138","4,04,195",70.5 %,"41,844",10.4%
+264,Kairana,83,GEN,Uttar Pradesh [1947 - 1999],Chandan Singh,Bharatiya Lok Dal,"5,70,885","3,81,053",66.8 %,"1,46,858",38.5%
+265,Kaiserganj,30,GEN,Uttar Pradesh [1947 - 1999],Rudra Sen,Bharatiya Lok Dal,"6,41,526","3,07,332",47.9 %,"1,24,796",40.6%
+266,Kakinada,7,GEN,Andhra Pradesh,Sanjeevirao M. S.,Indian National Congress,"6,56,501","4,46,438",68.0 %,"1,23,268",27.6%
+267,Kalahandi,14,GEN,Orissa,Pratap Keshari Deo,Independent,"5,42,033","1,93,140",35.6 %,"53,261",27.6%
+268,Kaliabor,11,GEN,Assam,Bedabrata Barua,Indian National Congress,"5,85,312","2,99,220",51.1 %,"71,157",23.8%
+269,Kanakapura,11,GEN,Karnataka,M. V. Chandrasekhara Murthy,Indian National Congress,"6,73,583","4,18,814",62.2 %,"4,652",1.1%
+270,Kanara,22,SC,Karnataka,Kadam Balsu Pursu,Indian National Congress,"5,83,855","3,91,234",67.0 %,"34,394",8.8%
+271,Kangra,3,GEN,Himachal Pradesh,Durga Chand,Bharatiya Lok Dal,"4,77,075","3,05,117",64.0 %,"39,004",12.8%
+272,Kanker,19,ST,Madhya Pradesh [1947 - 1999],Aghansingh,Bharatiya Lok Dal,"5,46,877","2,78,807",51.0 %,"53,777",19.3%
+273,Kannauj,67,GEN,Uttar Pradesh [1947 - 1999],Ram Prakash Tripathi,Bharatiya Lok Dal,"6,18,335","4,18,893",67.8 %,"1,71,042",40.8%
+274,Kanpur,65,GEN,Uttar Pradesh [1947 - 1999],Manohar Lal,Bharatiya Lok Dal,"6,57,627","3,83,842",58.4 %,"1,74,289",45.4%
+275,Kapadvanj,16,GEN,Gujarat,Vaghela Shankarji Laxmanji,Bharatiya Lok Dal,"5,61,342","3,30,969",59.0 %,"67,971",20.5%
+276,Karad,45,GEN,Maharashtra,Chavan Premlabai Dajisaheb,Indian National Congress,"6,29,569","3,39,680",54.0 %,"1,70,815",50.3%
+277,Karimganj,1,SC,Assam,Nihar Ranjan Laskar,Indian National Congress,"5,35,378","2,39,772",44.8 %,"30,300",12.6%
+278,Karimnagar,37,GEN,Andhra Pradesh,M. Satyanarayan Rao,Indian National Congress,"6,50,519","3,70,915",57.0 %,"1,14,048",30.7%
+279,Karnal,3,SC,Haryana,Bhagwat Dayal,Bharatiya Lok Dal,"5,56,203","4,22,745",76.0 %,"2,76,836",65.5%
+280,Karol Bagh,7,GEN,Delhi [1977 Onwards],Shiv Narain Sarsonia,Bharatiya Lok Dal,"3,15,305","2,17,380",68.9 %,"65,068",29.9%
+281,Karur,26,GEN,Tamil Nadu,Gopal K.,Indian National Congress,"7,32,872","5,17,913",70.7 %,"1,45,520",28.1%
+282,Kasaragod,1,GEN,Kerala,Ramachandran Kadannappally,Indian National Congress,"5,78,474","4,62,875",80.0 %,"5,042",1.1%
+283,Katihar,25,GEN,Bihar [1947 - 1999],Yuvraj,Bharatiya Lok Dal,"5,28,137","3,17,800",60.2 %,"1,29,789",40.8%
+284,Katwa,40,GEN,West Bengal,Dhirendra Nath Basu,Indian National Congress,"5,75,293","3,69,898",64.3 %,"11,880",3.2%
+285,Kendrapara,5,ST,Orissa,Bijayananda Pattanayak,Bharatiya Lok Dal,"6,29,067","3,96,224",63.0 %,"1,44,376",36.4%
+286,Keonjhar,21,ST,Orissa,Govinda Munda,Bharatiya Lok Dal,"5,61,230","1,94,821",34.7 %,"47,745",24.5%
+287,Khagaria,31,GEN,Bihar [1947 - 1999],Gyaneshwar Prasad Yadav,Bharatiya Lok Dal,"6,53,356","4,12,527",63.1 %,"1,49,292",36.2%
+288,Khajuraho,6,GEN,Madhya Pradesh [1947 - 1999],Laxmi Narain Nayak,Bharatiya Lok Dal,"6,66,008","3,48,780",52.4 %,"1,61,785",46.4%
+289,Khalilabad,36,GEN,Uttar Pradesh [1947 - 1999],Brij Bhushan Tiwari,Bharatiya Lok Dal,"6,41,772","3,87,762",60.4 %,"1,77,460",45.8%
+290,Khammam,40,GEN,Andhra Pradesh,Jalagam Kondala Rao,Indian National Congress,"5,96,499","4,19,829",70.4 %,"85,989",20.5%
+291,Khandwa,34,GEN,Madhya Pradesh [1947 - 1999],Parmanand Thakurdas Govindjiwala,Bharatiya Lok Dal,"5,24,670","3,30,516",63.0 %,"54,023",16.3%
+292,Khargone,35,GEN,Madhya Pradesh [1947 - 1999],Rameshwar Patidar,Bharatiya Lok Dal,"5,37,398","3,44,491",64.1 %,"35,858",10.4%
+293,Khed,41,SC,Maharashtra,Annasaheb Magar,Indian National Congress,"5,53,342","3,08,317",55.7 %,"19,526",6.3%
+294,Kheri,15,GEN,Uttar Pradesh [1947 - 1999],S.B. Shah,Bharatiya Lok Dal,"6,12,725","2,94,415",48.1 %,"74,304",25.2%
+295,Khunti,52,ST,Bihar [1947 - 1999],Karia Munda,Bharatiya Lok Dal,"5,60,524","1,90,162",33.9 %,"34,883",18.3%
+296,Khurja,77,SC,Uttar Pradesh [1947 - 1999],Mohan Lal,Bharatiya Lok Dal,"6,11,632","3,64,979",59.7 %,"2,25,817",61.9%
+297,Kishanganj,23,GEN,Bihar [1947 - 1999],Halimuddin Ahmed,Bharatiya Lok Dal,"5,98,944","2,92,961",48.9 %,"80,130",27.4%
+298,Kodarma,45,GEN,Bihar [1947 - 1999],Ritlal Prasad Verma,Bharatiya Lok Dal,"6,02,764","2,61,508",43.4 %,"1,16,028",44.4%
+299,Kokrajhar,5,ST,Assam,Charan Narzary,Independent,"5,50,061","3,44,818",62.7 %,"42,903",12.4%
+300,Kolaba,3,GEN,Maharashtra,Dinkar Balu Patil,Peasants & Workers Party,"5,87,580","3,63,056",61.8 %,"53,321",14.7%
+301,Kolar,10,GEN,Karnataka,G. Y. Krishnan,Indian National Congress,"5,94,814","3,61,610",60.8 %,"73,016",20.2%
+302,Kolhapur,48,GEN,Maharashtra,Desai Dajiba Balwantrao,Peasants & Workers Party,"5,51,595","3,84,229",69.7 %,165,0.0%
+303,Kopargaon,40,GEN,Maharashtra,Vikhe Eknathrao Vithalrao,Indian National Congress,"5,10,732","2,77,932",54.4 %,"98,544",35.5%
+304,Koppal,4,SC,Karnataka,Sidrameshwara Swamy Basayya,Indian National Congress,"6,13,378","3,44,340",56.1 %,"1,25,779",36.5%
+305,Koraput,12,ST,Orissa,Giridhar Gomango,Indian National Congress,"5,81,428","1,51,124",26.0 %,"14,429",9.5%
+306,Kota,14,GEN,Rajasthan,Krishna Kumar Goyal,Bharatiya Lok Dal,"5,49,045","3,57,258",65.1 %,"1,49,384",41.8%
+307,Kottayam,13,GEN,Kerala,Skariah Thomas,Kerala Congress,"5,75,946","4,69,180",81.5 %,"68,695",14.6%
+308,Krishnagar,11,GEN,West Bengal,Renupada Das,Communist Party Of India (MARXIST),"5,34,845","3,31,367",62.0 %,"91,368",27.6%
+309,Krishnagiri,14,GEN,Tamil Nadu,Periasamy P.V.,All India Anna Dravida Munnetra Kazhagam,"5,83,179","3,49,648",60.0 %,"1,19,228",34.1%
+310,Kurnool,26,GEN,Andhra Pradesh,K. Vijaya Bhaskara Reddy,Indian National Congress,"7,22,409","3,70,223",51.3 %,"1,99,356",53.8%
+311,Kurukshetra,2,GEN,Haryana,Raghbir Singh,Bharatiya Lok Dal,"5,38,852","4,25,945",79.1 %,"2,50,842",58.9%
+312,Kutch,1,SC,Gujarat,Dave Anantray Devshankar,Bharatiya Lok Dal,"4,38,528","2,40,319",54.8 %,"10,817",4.5%
+313,Ladakh,4,GEN,Jammu & Kashmir,Parvati Devi,Indian National Congress,"64,706","45,581",70.4 %,"2,877",6.3%
+314,Lakhimpur,14,GEN,Assam,Lalit Kumar Doley,Indian National Congress,"5,55,812","2,87,875",51.8 %,"65,232",22.7%
+315,Lakshadweep,1,ST,Lakshadweep,Muhammed Sayeed Padannatha,Indian National Congress,"19,471","16,480",84.6 %,"2,814",17.1%
+316,Lalganj,46,SC,Uttar Pradesh [1947 - 1999],Ramdhan,Bharatiya Lok Dal,"6,66,278","3,49,841",52.5 %,"1,64,080",46.9%
+317,Latur,35,GEN,Maharashtra,Patil Uddhavrao Sahebrrao,Peasants & Workers Party,"6,05,229","3,61,142",59.7 %,"7,851",2.2%
+318,Lohardaga,53,ST,Bihar [1947 - 1999],Lalu Oraon,Bharatiya Lok Dal,"5,66,103","2,58,952",45.7 %,"64,883",25.1%
+319,Lucknow,20,GEN,Uttar Pradesh [1947 - 1999],Hemwati Nandan Bahuguna,Bharatiya Lok Dal,"6,20,406","3,36,306",54.2 %,"1,65,345",49.2%
+320,Ludhiana,9,SC,Punjab,Jagdev Singh Talwandi,Shiromani Akali Dal,"6,65,954","5,02,599",75.5 %,"1,03,594",20.6%
+321,Machhlishahr,47,GEN,Uttar Pradesh [1947 - 1999],Raj Keshar Singh,Bharatiya Lok Dal,"6,33,108","3,28,690",51.9 %,"1,27,056",38.7%
+322,Machilipatnam,12,GEN,Andhra Pradesh,Ankineedu Maganti,Indian National Congress,"6,42,258","4,65,844",72.5 %,"76,929",16.5%
+323,Madhepura,21,GEN,Bihar [1947 - 1999],Bindhyeshwari Prasad Mandal,Bharatiya Lok Dal,"6,55,834","4,69,461",71.6 %,"2,00,717",42.8%
+324,Madhubani,13,GEN,Bihar [1947 - 1999],Hukmdeo Narain Yadav,Bharatiya Lok Dal,"6,94,797","4,75,219",68.4 %,"57,121",12.0%
+325,Madras Central,2,GEN,Tamil Nadu,Ramachandran P.,Indian National Congress (ORGANISATION),"8,60,316","4,65,600",54.1 %,"73,411",15.8%
+326,Madras North,1,SC,Tamil Nadu,Asai Thambi A.V.P.,Dravida Munetra Kazhagam,"8,52,627","4,70,323",55.2 %,"45,103",9.6%
+327,Madras South,3,GEN,Tamil Nadu,Venkataraman R.,Indian National Congress,"8,18,878","4,80,835",58.7 %,"14,829",3.1%
+328,Madurai,24,GEN,Tamil Nadu,Swaminathan R.V.,Indian National Congress,"7,61,202","4,89,074",64.3 %,"1,34,345",27.5%
+329,Mahabubnagar,29,GEN,Andhra Pradesh,J. Rameshwara Rao,Indian National Congress,"6,98,700","3,55,740",50.9 %,"94,489",26.6%
+330,Maharajganj,6,GEN,Bihar [1947 - 1999],Ram Deo Singh,Bharatiya Lok Dal,"6,82,823","4,48,583",65.7 %,"2,51,898",56.2%
+331,Maharajganj,39,GEN,Uttar Pradesh [1947 - 1999],Shibban Lal Saksena,Bharatiya Lok Dal,"5,67,992","3,03,976",53.5 %,"1,31,991",43.4%
+332,Mahasamund,18,GEN,Madhya Pradesh [1947 - 1999],Brijlal Verma,Bharatiya Lok Dal,"5,67,454","3,25,640",57.4 %,"79,527",24.4%
+333,Mahendragarh,7,GEN,Haryana,Manoharlal,Bharatiya Lok Dal,"6,52,913","4,72,459",72.4 %,"63,014",13.3%
+334,Mainpuri,69,GEN,Uttar Pradesh [1947 - 1999],Raghunath Singh Verma,Bharatiya Lok Dal,"6,03,450","3,74,342",62.0 %,"2,25,122",60.1%
+335,Malda,7,GEN,West Bengal,Dinesh Chandra Joardar,Communist Party Of India (MARXIST),"5,50,001","3,68,914",67.1 %,"29,708",8.1%
+336,Malegaon,13,GEN,Maharashtra,Mahale Hari Shankar,Bharatiya Lok Dal,"5,53,698","2,86,484",51.7 %,"15,437",5.4%
+337,Mandi,2,GEN,Himachal Pradesh,Ganga Singh,Bharatiya Lok Dal,"4,93,450","2,65,820",53.9 %,"35,505",13.4%
+338,Mandla,24,ST,Madhya Pradesh [1947 - 1999],Shyamlal Dhurve,Bharatiya Lok Dal,"4,97,295","1,95,129",39.2 %,"72,799",37.3%
+339,Mandsaur,40,GEN,Madhya Pradesh [1947 - 1999],Laxminarayan Pandey,Bharatiya Lok Dal,"5,98,330","4,09,872",68.5 %,"51,107",12.5%
+340,Mandvi,25,GEN,Gujarat,Gamit Chhitubhai Devjibhai,Indian National Congress,"5,41,832","3,40,473",62.8 %,"39,603",11.6%
+341,Mandya,14,GEN,Karnataka,K. Chickalingaiah,Indian National Congress,"6,04,439","4,25,086",70.3 %,"5,321",1.3%
+342,Mangaldoi,8,GEN,Assam,Hiralal Patowary,Bharatiya Lok Dal,"5,60,297","3,03,095",54.1 %,"50,002",16.5%
+343,Mangalore,17,GEN,Karnataka,Janardhana Poojari,Indian National Congress,"5,55,815","3,96,203",71.3 %,"78,328",19.8%
+344,Manjeri,5,GEN,Kerala,Ebrahim Sulaiman Sait,Muslim Leage,"5,69,228","4,42,328",77.7 %,"97,201",22.0%
+345,Mathura,74,GEN,Uttar Pradesh [1947 - 1999],Maniram,Bharatiya Lok Dal,"6,24,422","3,92,137",62.8 %,"2,15,265",54.9%
+346,Mathurapur,16,GEN,West Bengal,Mukunda Kumar Mondal,Communist Party Of India (MARXIST),"6,01,885","3,97,485",66.0 %,"41,592",10.5%
+347,Mavelikara,16,SC,Kerala,B. K. Nair,Indian National Congress,"5,69,041","4,52,188",79.5 %,"56,552",12.5%
+348,Mayiladuturai,29,SC,Tamil Nadu,Kudanthai Ramalingam N.,Indian National Congress,"6,47,843","4,96,486",76.6 %,"74,265",15.0%
+349,Mayurbhanj,1,GEN,Orissa,Chandra Mohan Sinha,Bharatiya Lok Dal,"5,57,848","2,15,006",38.5 %,"11,349",5.3%
+350,Medak,33,GEN,Andhra Pradesh,Mallikarjun,Indian National Congress,"6,35,388","3,71,104",58.4 %,"1,43,510",38.7%
+351,Meerut,80,GEN,Uttar Pradesh [1947 - 1999],Kailash Prakash,Bharatiya Lok Dal,"5,95,444","4,04,051",67.9 %,"1,24,732",30.9%
+352,Mehsana,12,GEN,Gujarat,Patel Maniben Vallabhbhai,Bharatiya Lok Dal,"5,96,154","3,88,731",65.2 %,"1,22,112",31.4%
+353,Midnapore,32,GEN,West Bengal,Ghosal Sudhir Kumar,Bharatiya Lok Dal,"5,78,798","3,38,254",58.4 %,"34,124",10.1%
+354,Miryalguda,42,GEN,Andhra Pradesh,G. S. Reddy,Indian National Congress,"6,67,777","4,51,295",67.6 %,"49,679",11.0%
+355,Mirzapur,54,GEN,Uttar Pradesh [1947 - 1999],Faqir Ali,Bharatiya Lok Dal,"6,27,411","3,21,471",51.2 %,"1,00,960",31.4%
+356,Misrikh,18,SC,Uttar Pradesh [1947 - 1999],Ram Lal Rahi,Bharatiya Lok Dal,"6,08,431","2,93,393",48.2 %,"1,26,153",43.0%
+357,Mizoram,1,ST,Mizoram,R. Rothuama,Independent,"2,04,480","1,02,075",49.9 %,"16,008",15.7%
+358,Mohanlalganj,21,SC,Uttar Pradesh [1947 - 1999],Ram Lal Kuril,Bharatiya Lok Dal,"6,00,008","2,73,880",45.7 %,"1,55,742",56.9%
+359,Monghyr,32,GEN,Bihar [1947 - 1999],Shri Krishna Singh,Bharatiya Lok Dal,"6,99,735","5,17,831",74.0 %,"1,73,617",33.5%
+360,Moradabad,7,GEN,Uttar Pradesh [1947 - 1999],Gulam Mohd. Khan,Bharatiya Lok Dal,"5,51,951","3,09,125",56.0 %,"1,38,851",44.9%
+361,Morena,1,SC,Madhya Pradesh [1947 - 1999],Chhabiram Argal,Bharatiya Lok Dal,"5,88,278","2,81,908",47.9 %,"81,304",28.8%
+362,Mormugao,2,GEN,"Goa, Daman And Diu",Faleiro Eduardo Martinho,Indian National Congress,"2,33,965","1,44,942",62.0 %,"9,468",6.5%
+363,Motihari,3,GEN,Bihar [1947 - 1999],Thakur Rampati Singh,Bharatiya Lok Dal,"6,58,880","3,66,506",55.6 %,"73,953",20.2%
+364,Mukundapuram,10,GEN,Kerala,A. C. George,Indian National Congress,"5,62,082","4,72,364",84.0 %,"4,220",0.9%
+365,Murshidabad,9,GEN,West Bengal,Syed Kazim Ali Meerza,Bharatiya Lok Dal,"5,87,057","3,63,744",62.0 %,"36,089",9.9%
+366,Muvattupuzha,12,GEN,Kerala,George J. Mathew,Kerala Congress,"5,60,833","4,60,769",82.2 %,"44,820",9.7%
+367,Muzaffarnagar,82,GEN,Uttar Pradesh [1947 - 1999],Saeed Murtaza,Bharatiya Lok Dal,"5,73,365","4,05,916",70.8 %,"1,82,659",45.0%
+368,Muzaffarpur,10,GEN,Bihar [1947 - 1999],George Fernandes,Bharatiya Lok Dal,"6,75,405","5,12,978",76.0 %,"3,34,217",65.2%
+369,Mysore,16,GEN,Karnataka,H. D. Tulsidas,Indian National Congress,"5,96,468","3,75,720",63.0 %,"41,668",11.1%
+370,Nabadwip,12,GEN,West Bengal,Bibha Ghosh (Goswami ),Communist Party Of India (MARXIST),"6,35,456","3,71,933",58.5 %,"87,286",23.5%
+371,Nagaland,1,ST,Nagaland,Rano M. Shaiza,United Democratic Front,"4,73,257","2,50,016",52.8 %,"8,100",3.2%
+372,Nagapattinam,30,GEN,Tamil Nadu,Murugaiyan S.G.,Communist Party Of India,"6,63,463","5,23,928",79.0 %,"40,810",7.8%
+373,Nagarkurnool,28,SC,Andhra Pradesh,Mailala Bheeshma Dev,Indian National Congress,"6,43,692","3,68,824",57.3 %,"1,22,763",33.3%
+374,Nagaur,25,GEN,Rajasthan,Nathu Ram,Indian National Congress,"6,39,881","3,75,278",58.7 %,"20,154",5.4%
+375,Nagercoil,39,GEN,Tamil Nadu,Kumari Ananthan,Indian National Congress (ORGANISATION),"6,46,525","4,35,474",67.4 %,"74,236",17.0%
+376,Nagpur,23,GEN,Maharashtra,Awari Gev Mancharsha,Indian National Congress,"6,08,981","3,92,163",64.4 %,"41,553",10.6%
+377,Nainital,4,GEN,Uttar Pradesh [1947 - 1999],Bharat Bhushan,Bharatiya Lok Dal,"5,40,445","3,26,678",60.5 %,"84,646",25.9%
+378,Nalanda,34,GEN,Bihar [1947 - 1999],Birendra Prasad,Bharatiya Lok Dal,"7,49,243","5,36,717",71.6 %,"1,41,022",26.3%
+379,Nalgonda,41,GEN,Andhra Pradesh,Mohd. Abdul Lateef,Indian National Congress,"6,31,059","4,03,761",64.0 %,"1,07,034",26.5%
+380,Nanded,30,GEN,Maharashtra,Dhondge Keshavrao Shankarrao,Peasants & Workers Party,"6,49,735","3,85,300",59.3 %,"1,33,820",34.7%
+381,Nandurbar,15,GEN,Maharashtra,Naik Surupsingh Hariya,Indian National Congress,"5,20,515","3,22,606",62.0 %,"67,440",20.9%
+382,Nandyal,27,GEN,Andhra Pradesh,Neelam Sanjeeva Reddy,Bharatiya Lok Dal,"6,75,340","4,96,200",73.5 %,"35,743",7.2%
+383,Narasapur,10,GEN,Andhra Pradesh,Alluri Subhash Chandra Bose,Indian National Congress,"6,70,999","4,72,161",70.4 %,"1,14,357",24.2%
+384,Narasaraopet,17,GEN,Andhra Pradesh,K Brahmananda Reddy,Indian National Congress,"7,50,248","4,34,640",57.9 %,"88,071",20.3%
+385,Nashik,12,ST,Maharashtra,Hande Vithalrao Ganpatrao,Bharatiya Lok Dal,"6,11,491","3,34,516",54.7 %,"11,241",3.4%
+386,Nawada,42,SC,Bihar [1947 - 1999],Nathuni Ram,Bharatiya Lok Dal,"7,41,486","5,18,053",69.9 %,"3,62,701",70.0%
+387,Nellore,19,SC,Andhra Pradesh,Kamakshaiah Doddavarapu,Indian National Congress,"7,52,778","4,23,182",56.2 %,"1,42,780",33.7%
+388,New Delhi,1,GEN,Delhi [1977 Onwards],Atal Bihari Vajpayee,Bharatiya Lok Dal,"2,70,702","1,78,112",65.8 %,"77,186",43.3%
+389,Nilgiris,18,GEN,Tamil Nadu,Ramalingam P.S.,All India Anna Dravida Munnetra Kazhagam,"6,95,566","4,44,544",63.9 %,"59,346",13.3%
+390,Nizamabad,34,GEN,Andhra Pradesh,Mudaganti Ram Gopal Reddy,Indian National Congress,"5,68,014","3,72,331",65.6 %,"1,59,393",42.8%
+391,Nowgong,10,GEN,Assam,Dev Kanta Borooah,Indian National Congress,"5,77,927","3,19,288",55.3 %,"54,219",17.0%
+392,Nowrangpur,13,GEN,Orissa,Khagapati Pradhani,Indian National Congress,"5,22,394","1,44,408",27.6 %,"3,031",2.1%
+393,Ongole,18,GEN,Andhra Pradesh,Puli Venkata Reddy,Indian National Congress,"7,41,462","4,62,001",62.3 %,"89,325",19.3%
+394,Osmanabad,36,GEN,Maharashtra,Shrangare Tukaram Sadashiv,Indian National Congress,"5,66,631","2,81,661",49.7 %,"61,544",21.9%
+395,Ottapalam,8,GEN,Kerala,K. Kunhambu,Indian National Congress,"5,74,543","4,40,315",76.6 %,"35,721",8.1%
+396,Outer Delhi,3,GEN,Delhi [1977 Onwards],Brahm Perkash,Bharatiya Lok Dal,"4,43,858","3,16,256",71.3 %,"1,04,366",33.0%
+397,Outer Manipur,2,ST,Manipur,Yangmaso Shaiza,Indian National Congress,"3,80,305","2,22,264",58.4 %,"76,062",34.2%
+398,Padrauna,40,GEN,Uttar Pradesh [1947 - 1999],Ram Dhari Shastri,Bharatiya Lok Dal,"6,20,038","3,22,441",52.0 %,"1,19,098",36.9%
+399,Palamau,54,SC,Bihar [1947 - 1999],Ramdeni Ram,Bharatiya Lok Dal,"5,79,353","2,65,364",45.8 %,"1,62,839",61.4%
+400,Palani,22,GEN,Tamil Nadu,Subramaniam C.,Indian National Congress,"7,38,018","5,03,041",68.2 %,"2,21,768",44.1%
+401,Palghat,7,GEN,Kerala,A. Sunnasahib,Indian National Congress,"5,89,253","4,39,779",74.6 %,"14,871",3.4%
+402,Pali,21,GEN,Rajasthan,Amrit Nehata,Bharatiya Lok Dal,"6,08,370","3,34,670",55.0 %,"88,247",26.4%
+403,Panaji,1,GEN,"Goa, Daman And Diu",Kasar Amrut Shivram,Maharashtrawadi Gomantak,"2,43,439","1,54,844",63.6 %,"11,066",7.1%
+404,Pandharpur,38,SC,Maharashtra,Thorat Sandipan Bhagwan,Indian National Congress,"6,18,058","3,18,855",51.6 %,"98,452",30.9%
+405,Panskura,29,SC,West Bengal,Abha Maiti,Bharatiya Lok Dal,"5,19,863","3,73,170",71.8 %,"98,137",26.3%
+406,Parbhani,31,GEN,Maharashtra,Deshmukh Sheshrao Apparao,Peasants & Workers Party,"5,74,877","3,10,487",54.0 %,"31,539",10.2%
+407,Parvathipuram,2,ST,Andhra Pradesh,Vyrichorla Kishore Chandra Suryanarayana Deo,Indian National Congress,"6,55,999","3,30,291",50.4 %,"31,744",9.6%
+408,Patan,13,GEN,Gujarat,Chavda Khemchandbhai Somabhai,Bharatiya Lok Dal,"5,73,367","3,03,870",53.0 %,"73,566",24.2%
+409,Patiala,8,SC,Punjab,Gurcharan Sing Tohra,Shiromani Akali Dal,"6,06,187","4,62,560",76.3 %,"90,317",19.5%
+410,Patna,35,GEN,Bihar [1947 - 1999],Maha Maya Prasad Sinha,Bharatiya Lok Dal,"7,44,724","5,06,567",68.0 %,"3,23,125",63.8%
+411,Peddapalli,36,SC,Andhra Pradesh,V. Tulsiram,Indian National Congress,"6,38,114","3,32,640",52.1 %,"1,05,077",31.6%
+412,Perambalur,28,GEN,Tamil Nadu,Asokaraj A.,All India Anna Dravida Munnetra Kazhagam,"6,72,075","4,85,974",72.3 %,"1,80,027",37.0%
+413,Periyakulam,25,GEN,Tamil Nadu,Ramasamy S.,All India Anna Dravida Munnetra Kazhagam,"6,93,319","4,80,718",69.3 %,"2,04,392",42.5%
+414,Phillaur,5,SC,Punjab,Bhagat Ram,Communist Party Of India (MARXIST),"6,49,304","4,63,858",71.4 %,"1,49,031",32.1%
+415,Phulbani,15,GEN,Orissa,Sribatcha Digal,Bharatiya Lok Dal,"6,33,850","2,09,232",33.0 %,"2,643",1.3%
+416,Phulpur,55,GEN,Uttar Pradesh [1947 - 1999],Kamala Bahuguna,Bharatiya Lok Dal,"6,09,188","3,25,408",53.4 %,"1,22,352",37.6%
+417,Pilibhit,13,GEN,Uttar Pradesh [1947 - 1999],Mohd. Shamusul Hasan Khan,Bharatiya Lok Dal,"5,93,586","3,42,429",57.7 %,"1,72,676",50.4%
+418,Pollachi,21,GEN,Tamil Nadu,Raju K.A.,All India Anna Dravida Munnetra Kazhagam,"6,70,445","4,13,749",61.7 %,"1,24,194",30.0%
+419,Pondicherry,1,GEN,Pondicherry,Aravinda Bala Pajanor,All India Anna Dravida Munnetra Kazhagam,"2,98,192","2,19,560",73.6 %,"19,201",8.7%
+420,Ponnani,6,GEN,Kerala,G. M. Banatwala,Muslim Leage,"5,73,502","4,31,232",75.2 %,"1,17,546",27.3%
+421,Porbandar,5,GEN,Gujarat,Patel Dharmasinhbhai Dahyabhai,Bharatiya Lok Dal,"5,25,285","2,76,295",52.6 %,"24,429",8.8%
+422,Pratapgarh,24,GEN,Uttar Pradesh [1947 - 1999],Roop Nath Singh Yadava,Bharatiya Lok Dal,"6,30,123","2,94,363",46.7 %,"1,49,320",50.7%
+423,Pudukkottai,32,GEN,Tamil Nadu,Elanchezhian V.S.,All India Anna Dravida Munnetra Kazhagam,"7,00,248","5,32,811",76.1 %,"2,23,615",42.0%
+424,Pune,42,SC,Maharashtra,Mohan Dharia,Bharatiya Lok Dal,"6,06,601","3,82,043",63.0 %,"48,167",12.6%
+425,Puri,8,SC,Orissa,Padmacharan Samantasinhar,Bharatiya Lok Dal,"6,24,267","3,00,554",48.2 %,"70,541",23.5%
+426,Purnea,24,GEN,Bihar [1947 - 1999],Lakhan Lal Kapoor,Bharatiya Lok Dal,"6,10,087","3,64,431",59.7 %,"92,037",25.3%
+427,Purulia,34,GEN,West Bengal,Chittaranjan Mahata,All India Forward Bloc,"5,82,892","3,03,660",52.1 %,"1,16,552",38.4%
+428,Quilon,18,GEN,Kerala,N. Sreekantan Nair,Revolutionary Socialist Party,"5,82,742","4,58,425",78.7 %,"1,13,161",24.7%
+429,Rae Bareli,23,GEN,Uttar Pradesh [1947 - 1999],Raj Narain,Bharatiya Lok Dal,"6,32,817","3,42,742",54.2 %,"55,202",16.1%
+430,Raichur,3,GEN,Karnataka,Rajshekhar Mallappa,Indian National Congress,"5,99,904","3,03,706",50.6 %,"1,36,422",44.9%
+431,Raiganj,5,GEN,West Bengal,Md. Hayat Ali,Bharatiya Lok Dal,"5,63,672","3,47,199",61.6 %,"67,124",19.3%
+432,Raigarh,13,ST,Madhya Pradesh [1947 - 1999],Narhari Prasad Sukhdeo Sai,Bharatiya Lok Dal,"5,34,616","2,64,988",49.6 %,"19,812",7.5%
+433,Raipur,17,GEN,Madhya Pradesh [1947 - 1999],Purushottam Lal Kaushik,Bharatiya Lok Dal,"5,19,086","3,25,479",62.7 %,"83,612",25.7%
+434,Rajahmundry,8,GEN,Andhra Pradesh,Pattabhirama Rao S. B. P.,Indian National Congress,"7,07,836","4,89,814",69.2 %,"1,16,759",23.8%
+435,Rajampet,22,GEN,Andhra Pradesh,Pothuraju Parthasarathi,Indian National Congress,"6,66,802","4,42,481",66.4 %,"54,551",12.3%
+436,Rajapur,1,ST,Maharashtra,Madhu Dandavate,Bharatiya Lok Dal,"5,36,761","3,39,966",63.3 %,"1,16,382",34.2%
+437,Rajgarh,32,GEN,Madhya Pradesh [1947 - 1999],Pandit Vashant Kumar Ram Krishna,Bharatiya Lok Dal,"5,77,412","3,25,636",56.4 %,"1,51,535",46.5%
+438,Rajkot,4,GEN,Gujarat,Patel Keshubhai Savdasbhai,Bharatiya Lok Dal,"6,04,102","3,13,341",51.9 %,"15,801",5.0%
+439,Rajmahal,26,ST,Bihar [1947 - 1999],Father Anthoni Murmu,Bharatiya Lok Dal,"5,61,472","2,24,290",40.0 %,"92,486",41.2%
+440,Rajnandgaon,22,GEN,Madhya Pradesh [1947 - 1999],Madan Tiwary,Bharatiya Lok Dal,"5,39,946","2,99,983",55.6 %,"87,933",29.3%
+441,Ramanathapuram,34,GEN,Tamil Nadu,Anbalagan P.,All India Anna Dravida Munnetra Kazhagam,"6,93,920","4,49,095",64.7 %,"1,75,130",39.0%
+442,Rampur,8,GEN,Uttar Pradesh [1947 - 1999],Rajendra Kumar Sharma,Bharatiya Lok Dal,"6,33,744","4,24,796",67.0 %,"88,078",20.7%
+443,Ramtek,22,ST,Maharashtra,Barve Jatiramji Chaitramji,Indian National Congress,"5,80,036","3,75,589",64.8 %,"42,949",11.4%
+444,Ranchi,49,GEN,Bihar [1947 - 1999],Ravindra Verma,Bharatiya Lok Dal,"5,77,646","2,76,325",47.8 %,"62,716",22.7%
+445,Rasipuram,15,GEN,Tamil Nadu,Devarajan B.,Indian National Congress,"7,16,448","4,53,058",63.2 %,"1,33,438",29.5%
+446,Ratnagiri,2,GEN,Maharashtra,Parulekar Bapusaheb,Bharatiya Lok Dal,"5,48,334","3,38,221",61.7 %,"25,300",7.5%
+447,Rewa,9,GEN,Madhya Pradesh [1947 - 1999],Yammuna Prasad,Bharatiya Lok Dal,"6,59,111","3,83,903",58.3 %,"6,693",1.7%
+448,Robertsganj,53,SC,Uttar Pradesh [1947 - 1999],Sheo Sampat,Bharatiya Lok Dal,"6,37,043","3,29,826",51.8 %,"1,63,044",49.4%
+449,Rohtak,5,GEN,Haryana,Sher Singh,Bharatiya Lok Dal,"5,77,990","3,98,627",69.0 %,"2,59,645",65.1%
+450,Ropar,7,GEN,Punjab,Basant Singh,Shiromani Akali Dal,"6,37,090","4,91,388",77.1 %,"82,572",16.8%
+451,Rosera,16,SC,Bihar [1947 - 1999],Ram Sewak Hazari,Bharatiya Lok Dal,"6,45,136","4,45,605",69.1 %,"1,94,506",43.6%
+452,Sabarkantha,15,GEN,Gujarat,H. M. Patel,Bharatiya Lok Dal,"5,43,790","3,16,530",58.2 %,"38,062",12.0%
+453,Sagar,5,SC,Madhya Pradesh [1947 - 1999],Narmada Prasad Rai,Bharatiya Lok Dal,"5,39,534","2,97,815",55.2 %,"68,929",23.1%
+454,Saharanpur,84,GEN,Uttar Pradesh [1947 - 1999],Rasheed Masood,Bharatiya Lok Dal,"5,95,173","3,97,670",66.8 %,"1,63,385",41.1%
+455,Saharsa,20,GEN,Bihar [1947 - 1999],Vinayak Prasad Yadav,Bharatiya Lok Dal,"6,81,641","4,64,082",68.1 %,"1,88,706",40.7%
+456,Saidpur,49,SC,Uttar Pradesh [1947 - 1999],Ram Sagar,Bharatiya Lok Dal,"6,56,237","3,67,894",56.1 %,"1,90,068",51.7%
+457,Salem,16,GEN,Tamil Nadu,Kannan P.,All India Anna Dravida Munnetra Kazhagam,"6,77,947","4,40,410",65.0 %,"79,604",18.1%
+458,Salempur,42,GEN,Uttar Pradesh [1947 - 1999],Ram Naresh Kushwaha,Bharatiya Lok Dal,"6,74,680","3,58,364",53.1 %,"1,80,921",50.5%
+459,Salumber,17,GEN,Rajasthan,Ialiya,Bharatiya Lok Dal,"5,37,118","2,75,355",51.3 %,"98,497",35.8%
+460,Samastipur,17,GEN,Bihar [1947 - 1999],Karpoori Thakur,Bharatiya Lok Dal,"7,35,794","5,20,131",70.7 %,"3,27,434",63.0%
+461,Sambalpur,17,GEN,Orissa,Gananath Pradhan,Bharatiya Lok Dal,"6,60,200","3,14,774",47.7 %,"56,234",17.9%
+462,Sambhal,9,GEN,Uttar Pradesh [1947 - 1999],Shanti Devi,Bharatiya Lok Dal,"5,78,983","3,39,538",58.6 %,"1,32,864",39.1%
+463,Sangli,46,GEN,Maharashtra,Gotkhinde Ganapatrao Tukaram,Indian National Congress,"5,69,335","3,37,018",59.2 %,"56,294",16.7%
+464,Sangrur,10,GEN,Punjab,Surjit Singh,Shiromani Akali Dal,"6,22,238","4,62,873",74.4 %,"1,65,049",35.7%
+465,Sarangarh,16,SC,Madhya Pradesh [1947 - 1999],Govind Ram Miri,Bharatiya Lok Dal,"6,28,243","2,32,949",37.1 %,"12,176",5.2%
+466,Sasaram,38,SC,Bihar [1947 - 1999],Jagivan Ram,Bharatiya Lok Dal,"6,55,030","4,25,637",65.0 %,"2,43,810",57.3%
+467,Satara,44,GEN,Maharashtra,Chavan Yashvantrao Balwantrao,Indian National Congress,"5,80,157","3,51,552",60.6 %,"1,91,601",54.5%
+468,Satna,8,GEN,Madhya Pradesh [1947 - 1999],Sukhendra Singh,Bharatiya Lok Dal,"5,93,300","3,67,563",62.0 %,"1,52,577",41.5%
+469,Sawai Madhopur,11,ST,Rajasthan,Meetha Lal,Bharatiya Lok Dal,"6,28,738","3,12,611",49.7 %,"1,25,810",40.2%
+470,Secunderabad,31,GEN,Andhra Pradesh,M. M. Hashim,Indian National Congress,"6,15,045","3,37,559",54.9 %,"3,847",1.1%
+471,Seoni,26,GEN,Madhya Pradesh [1947 - 1999],Nirmal Chandra Jain,Bharatiya Lok Dal,"5,52,085","2,89,629",52.5 %,"53,561",18.5%
+472,Serampore,26,GEN,West Bengal,Dinen Bhattacharya,Communist Party Of India (MARXIST),"6,28,219","3,92,237",62.4 %,"1,39,815",35.6%
+473,Shahabad,16,GEN,Uttar Pradesh [1947 - 1999],Ganga Bhakt Singh,Bharatiya Lok Dal,"6,07,261","3,38,112",55.7 %,"1,01,548",30.0%
+474,Shahdol,11,ST,Madhya Pradesh [1947 - 1999],Dalpat Singh Paraste,Bharatiya Lok Dal,"5,80,106","2,49,039",42.9 %,"96,559",38.8%
+475,Shahjahanpur,14,GEN,Uttar Pradesh [1947 - 1999],Surendra Vikram,Bharatiya Lok Dal,"6,39,675","3,62,713",56.7 %,"1,55,424",42.9%
+476,Shajapur,33,SC,Madhya Pradesh [1947 - 1999],Phool Chand Verma,Bharatiya Lok Dal,"5,80,748","4,20,597",72.4 %,"84,792",20.2%
+477,Sheohar,12,GEN,Bihar [1947 - 1999],Thakur Girjanandan Singh,Bharatiya Lok Dal,"7,00,609","4,35,625",62.2 %,"67,029",15.4%
+478,Shillong,1,ST,Meghalaya,Hoping Stone Lyngdoh,Independent,"3,41,910","1,90,149",55.6 %,"4,765",2.5%
+479,Shimoga,21,GEN,Karnataka,A. R. Badarinarayan,Indian National Congress,"5,59,699","4,09,137",73.1 %,"74,836",18.3%
+480,Siddipet,32,SC,Andhra Pradesh,G.Venkataswamy,Indian National Congress,"6,16,118","3,77,927",61.3 %,"1,02,870",27.2%
+481,Sidhi,10,GEN,Madhya Pradesh [1947 - 1999],Surya Narayan Singh,Bharatiya Lok Dal,"5,90,957","2,65,662",45.0 %,"76,473",28.8%
+482,Sikar,5,GEN,Rajasthan,Jagdish Prasad Mathur,Bharatiya Lok Dal,"6,75,153","3,98,248",59.0 %,"1,57,193",39.5%
+483,Sikkim,1,GEN,Sikkim,Chatra Bahadur Chhetri,Indian National Congress,"1,24,023",RU,NA,RU,NA
+484,Silchar,2,GEN,Assam,Rashida Haque Choudhury,Indian National Congress,"4,71,251","2,55,921",54.3 %,"28,553",11.2%
+485,Simla,1,GEN,Himachal Pradesh,Balak Ram,Bharatiya Lok Dal,"4,65,720","2,73,489",58.7 %,"87,291",31.9%
+486,Singhbhum,51,ST,Bihar [1947 - 1999],Bagun Sumbrui,All India Jharkhand Party,"5,23,404","1,80,378",34.5 %,"1,01,866",56.5%
+487,Sirsa,10,GEN,Haryana,Chandram,Bharatiya Lok Dal,"5,76,112","4,03,115",70.0 %,"1,53,168",38.0%
+488,Sitamarhi,11,GEN,Bihar [1947 - 1999],Shyam Sunder Das,Bharatiya Lok Dal,"7,22,136","5,04,140",69.8 %,"90,094",17.9%
+489,Sitapur,17,GEN,Uttar Pradesh [1947 - 1999],Hargovind Verma,Bharatiya Lok Dal,"5,90,648","3,16,664",53.6 %,"1,09,975",34.7%
+490,Sivaganga,33,GEN,Tamil Nadu,P.Thiagarajan,All India Anna Dravida Munnetra Kazhagam,"7,10,297","4,85,942",68.4 %,"2,11,533",43.5%
+491,Sivakasi,35,GEN,Tamil Nadu,V. Jayalakshmi,Indian National Congress,"7,22,380","5,09,445",70.5 %,"1,14,848",22.5%
+492,Siwan,5,GEN,Bihar [1947 - 1999],Mirtanjay Prasad Verma,Bharatiya Lok Dal,"6,53,469","4,40,034",67.3 %,"2,31,076",52.5%
+493,Solapur,37,GEN,Maharashtra,Damani Surajratan Fatehchand,Indian National Congress,"5,25,311","3,41,870",65.1 %,"34,043",10.0%
+494,Sonepat,4,GEN,Haryana,Mukhtiar Singh,Bharatiya Lok Dal,"5,97,668","4,34,643",72.7 %,"2,80,223",64.5%
+495,South Delhi,2,GEN,Delhi [1977 Onwards],Vijay Kumar Malhotra,Bharatiya Lok Dal,"3,82,219","2,65,615",69.5 %,"1,07,557",40.5%
+496,Srikakulam,1,GEN,Andhra Pradesh,Rajgopalarao Boddepalli,Indian National Congress,"5,85,062","3,94,514",67.4 %,"8,734",2.2%
+497,Srinagar,2,GEN,Jammu & Kashmir,Akbar Jahan Begam,Jammu & Kashmir National Conference,"4,61,965","3,19,298",69.1 %,"1,22,641",38.4%
+498,Sriperumbudur,4,GEN,Tamil Nadu,Jaganathan S.,All India Anna Dravida Munnetra Kazhagam,"6,95,900","4,62,475",66.5 %,"45,932",9.9%
+499,Sultanpur,26,GEN,Uttar Pradesh [1947 - 1999],Zulfikar Ullah,Bharatiya Lok Dal,"6,37,986","3,17,828",49.8 %,"1,65,534",52.1%
+500,Sundargarh,20,GEN,Orissa,Debananda Amat,Bharatiya Lok Dal,"5,64,294","2,25,858",40.0 %,"44,553",19.7%
+501,Surat,24,GEN,Gujarat,Desai Morarji Ranchhodji,Bharatiya Lok Dal,"5,82,963","4,01,238",68.8 %,"21,460",5.3%
+502,Surendranagar,2,GEN,Gujarat,Amin Ramdas Kishordas ( R. K. Amin ),Bharatiya Lok Dal,"5,00,963","2,92,268",58.3 %,"5,433",1.9%
+503,Surguja,12,ST,Madhya Pradesh [1947 - 1999],Larang Sai,Bharatiya Lok Dal,"5,49,984","2,48,789",45.2 %,"1,00,183",40.3%
+504,Tamluk,30,GEN,West Bengal,Sushil Kumar Dhara,Bharatiya Lok Dal,"6,03,246","4,21,330",69.8 %,"1,18,575",28.1%
+505,Tarn Taran,3,GEN,Punjab,Mohan Singh Tur,Shiromani Akali Dal,"6,40,514","4,61,527",72.1 %,"79,970",17.3%
+506,Tehri Garhwal,1,GEN,Uttar Pradesh [1947 - 1999],Trepansingh Negi,Bharatiya Lok Dal,"5,38,207","2,48,586",46.2 %,"71,071",28.6%
+507,Tenali,14,GEN,Andhra Pradesh,Meduri Nageswara Rao,Indian National Congress,"6,59,608","4,48,755",68.0 %,"57,737",12.9%
+508,Tenkasi,37,SC,Tamil Nadu,Arunachalam M.,Indian National Congress,"6,73,825","4,51,061",66.9 %,"1,86,876",41.4%
+509,Tezpur,9,GEN,Assam,Purnanarayan Sinha,Bharatiya Lok Dal,"4,57,513","2,67,332",58.4 %,"6,148",2.3%
+510,Thane,10,GEN,Maharashtra,Mhalgi Ramchandra Kashinath,Bharatiya Lok Dal,"7,22,136","3,99,503",55.3 %,"82,746",20.7%
+511,Thanjavur,31,GEN,Tamil Nadu,Somasundaram S.D.,All India Anna Dravida Munnetra Kazhagam,"6,33,005","4,90,266",77.5 %,"97,743",19.9%
+512,Tindivanam,10,GEN,Tamil Nadu,Lakshminarayanan M.R.,Indian National Congress,"6,49,592","4,46,012",68.7 %,"49,485",11.1%
+513,Tiruchendur,38,GEN,Tamil Nadu,Kosalaram K.T.,Indian National Congress,"7,12,718","4,52,540",63.5 %,"1,20,190",26.6%
+514,Tiruchengode,17,GEN,Tamil Nadu,Kolanthaivelu R.,All India Anna Dravida Munnetra Kazhagam,"8,26,331","5,22,305",63.2 %,"1,28,180",24.5%
+515,Tiruchirappalli,27,SC,Tamil Nadu,M. Kalyanasundaram,Communist Party Of India,"7,12,644","4,91,281",68.9 %,"76,045",15.5%
+516,Tirunelveli,36,GEN,Tamil Nadu,Arunachalam V.,All India Anna Dravida Munnetra Kazhagam,"6,72,649","4,44,250",66.0 %,"1,82,693",41.1%
+517,Tirupathi,20,SC,Andhra Pradesh,Balakrishnaiah Tambura,Indian National Congress,"6,96,337","4,54,492",65.3 %,"40,180",8.8%
+518,Tiruppattur,8,GEN,Tamil Nadu,Viswanathan C.N.,Dravida Munetra Kazhagam,"6,56,520","4,40,042",67.0 %,"98,666",22.4%
+519,Tonk,13,GEN,Rajasthan,Ram Kanwar,Bharatiya Lok Dal,"6,05,402","3,40,075",56.2 %,"1,61,917",47.6%
+520,Trichur,9,SC,Kerala,K. A. Rajan,Communist Party Of India,"5,49,781","4,41,732",80.4 %,"37,506",8.5%
+521,Tripura East,2,ST,Tripura,Kirit Bikram Kishore Deb Barma,Indian National Congress,"4,35,113","2,91,091",66.9 %,"13,183",4.5%
+522,Tripura West,1,GEN,Tripura,Sachindralal Singha,Bharatiya Lok Dal,"4,30,943","3,15,742",73.3 %,"5,047",1.6%
+523,Trivandrum,20,GEN,Kerala,M. N. Govindan Nair,Communist Party Of India,"6,21,533","4,48,586",72.2 %,"69,822",15.6%
+524,Tumkur,8,GEN,Karnataka,K. Lakkappa,Indian National Congress,"6,03,974","4,19,806",69.5 %,"66,817",15.9%
+525,Tura,2,ST,Meghalaya,Purna A. Sangma,Indian National Congress,"1,88,416","74,395",39.5 %,"14,034",18.9%
+526,Udaipur,18,GEN,Rajasthan,Bhanu Kumar Shastri,Bharatiya Lok Dal,"6,43,622","3,67,833",57.2 %,"1,47,056",40.0%
+527,Udhampur,5,GEN,Jammu & Kashmir,Karan Singh,Indian National Congress,"5,04,677","2,37,356",47.0 %,"58,956",24.8%
+528,Udupi,18,SC,Karnataka,T. A. Pai,Indian National Congress,"5,27,780","3,74,736",71.0 %,"1,03,462",27.6%
+529,Ujjain,38,SC,Madhya Pradesh [1947 - 1999],Hukumchand Kachhaway,Bharatiya Lok Dal,"5,50,046","3,72,839",67.8 %,"69,097",18.5%
+530,Uluberia,25,GEN,West Bengal,Shyamaprasanna Bhattacharyya,Communist Party Of India (MARXIST),"6,10,328","4,04,839",66.3 %,"1,14,499",28.3%
+531,Unnao,22,GEN,Uttar Pradesh [1947 - 1999],Raghavendra Singh,Bharatiya Lok Dal,"6,19,501","3,30,158",53.3 %,"1,60,874",48.7%
+532,Vaishali,9,GEN,Bihar [1947 - 1999],Digvijoy Narain Singh,Bharatiya Lok Dal,"6,78,124","5,16,082",76.1 %,"3,65,497",70.8%
+533,Varanasi,52,GEN,Uttar Pradesh [1947 - 1999],Chandra Shekher,Bharatiya Lok Dal,"6,42,595","3,58,755",55.8 %,"1,71,854",47.9%
+534,Vellore,7,GEN,Tamil Nadu,Dhandayuthapani V.,Indian National Congress (ORGANISATION),"6,59,939","4,59,693",69.7 %,"3,161",0.7%
+535,Vidisha,31,GEN,Madhya Pradesh [1947 - 1999],Raghavji,Bharatiya Lok Dal,"5,87,424","3,54,506",60.4 %,"1,23,734",34.9%
+536,Vijayawada,13,GEN,Andhra Pradesh,Godey Murahari,Indian National Congress,"6,46,465","4,63,707",71.7 %,"1,20,037",25.9%
+537,Visakhapatnam,4,GEN,Andhra Pradesh,Dronamraju Satyanarayana,Indian National Congress,"6,26,272","3,48,049",55.6 %,"42,829",12.3%
+538,Vishnupur,36,GEN,West Bengal,Ajit Kumar Saha,Communist Party Of India (MARXIST),"6,01,160","3,76,332",62.6 %,"1,30,374",34.6%
+539,Wandiwash,9,GEN,Tamil Nadu,Venugopal Gounder,All India Anna Dravida Munnetra Kazhagam,"6,85,987","4,70,355",68.6 %,"81,132",17.2%
+540,Warangal,39,GEN,Andhra Pradesh,S. B. Giri,Indian National Congress,"5,81,239","3,96,277",68.2 %,"1,22,622",30.9%
+541,Wardha,27,GEN,Maharashtra,Gode Santoshrao Vyankatrao,Indian National Congress,"6,08,615","4,26,703",70.1 %,"1,16,654",27.3%
+542,Washim,20,ST,Maharashtra,Naik Vasantrao Phulsing,Indian National Congress,"5,37,856","3,67,227",68.3 %,"73,157",19.9%
+543,Yeotmal,28,GEN,Maharashtra,Jawade Shridharrao Natthobaji,Indian National Congress,"5,74,977","4,01,020",69.8 %,"10,297",2.6%

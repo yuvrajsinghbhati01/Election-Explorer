@@ -1,0 +1,8 @@
+flask
+flask-cors
+pandas
+numpy
+plotly
+gunicorn
+flask-sqlalchemy
+psycopg2-binary
