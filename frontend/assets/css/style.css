@@ -1,0 +1,212 @@
+/* Custom styles for Lok Sabha Election Explorer */
+
+body {
+    background-color: #f8f9fa;
+}
+
+.jumbotron {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://www.jagranimages.com/images/newimg/11052023/11_05_2023-election_day_india_23375965.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    border-radius: 0.5rem;
+    padding: 2rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.card {
+    border: none;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    transition: box-shadow 0.3s ease;
+}
+
+.card:hover {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.card-header {
+    background-color: #f1f8ff;
+    border-bottom: 2px solid #e9ecef;
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #3498db;
+    border-color: #3498db;
+}
+
+.btn-primary:hover {
+    background-color: #2980b9;
+    border-color: #2980b9;
+}
+
+.btn-info {
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+}
+
+.btn-info:hover {
+    background-color: #138496;
+    border-color: #117a8b;
+}
+
+.result-card {
+    margin-top: 20px;
+}
+
+.winner {
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+}
+
+.runner-up {
+    background-color: #fff3cd;
+    border-color: #ffeeba;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #f1f8ff;
+}
+
+.table th {
+    background-color: #f8f9fa;
+}
+
+/* Styles for the result and trend pages */
+.result-container, .trend-container {
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    margin-top: 20px;
+}
+
+/* Party comparison styles */
+.form-check-input.party-checkbox:checked + .form-check-label {
+    color: #17a2b8;
+    font-weight: bold;
+}
+
+.form-check {
+    padding: 5px 10px;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    transition: background-color 0.2s;
+}
+
+.form-check:hover {
+    background-color: #f8f9fa;
+}
+
+.alert-info {
+    background-color: #e3f2fd;
+    border-color: #bee5eb;
+    color: #0c5460;
+}
+
+.bg-info {
+    background-color: #17a2b8 !important;
+}
+
+/* Make layouts more symmetric */
+.card-header {
+    padding: 0.75rem 1.25rem;
+    font-size: 1.1rem;
+}
+
+.card {
+    margin-bottom: 1.5rem;
+}
+
+/* Search styling */
+#partySearch {
+    border-color: #17a2b8;
+    box-shadow: none;
+}
+
+#partySearch:focus {
+    border-color: #17a2b8;
+    box-shadow: 0 0 0 0.2rem rgba(23, 162, 184, 0.25);
+}
+
+/* Party comparison horizontal layout */
+.party-selection-container {
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+.party-selection-container:hover {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+}
+
+.party-select-box {
+    min-width: 150px;
+    transition: transform 0.2s ease;
+}
+
+.party-select-box:hover {
+    transform: translateY(-3px);
+}
+
+.party-select-box .card {
+    margin-bottom: 0;
+    border: none;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.party-select-box .card-header {
+    padding: 0.5rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+.party-select-box .card-body {
+    padding: 0.75rem;
+}
+
+.party-select-box select {
+    border: 1px solid #ced4da;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.party-select-box select:focus {
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+/* Color variations for party boxes */
+.bg-warning {
+    background-color: #ffc107 !important;
+}
+
+.bg-secondary {
+    background-color: #6c757d !important;
+}
+
+/* Text color for all headers */
+.card-header.bg-primary,
+.card-header.bg-success,
+.card-header.bg-info,
+.card-header.bg-warning,
+.card-header.bg-secondary {
+    color: white !important;
+}
+
+.trend-graph {
+    min-height: 400px;
+    margin: 20px 0;
+}
+
+.back-button {
+    margin: 20px 0;
+}
+
+@media (max-width: 768px) {
+    .jumbotron {
+        padding: 1rem;
+    }
+    
+    h1.display-4 {
+        font-size: 2.5rem;
+    }
+}

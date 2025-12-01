@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parties - India Lok Sabha Elections Dashboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/dataTables.bootstrap5.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body data-bs-theme="light">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary sticky-top">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="index.html">
+                <i class="bi bi-bar-chart-fill me-2"></i>
+                India Elections Dashboard
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Overview</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="constituency.html">Constituencies</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="compare.html">Compare</a>
+                    </li>
+                </ul>
+                <div class="d-flex align-items-center">
+                    <div class="form-check form-switch me-3">
+                        <input class="form-check-input" type="checkbox" id="themeSwitch">
+                        <label class="form-check-label text-light" for="themeSwitch">
+                            <i class="bi bi-moon-fill"></i>
+                        </label>
+                    </div>
+                    <div class="input-group">
+                        <input type="text" class="form-control" id="searchInput" placeholder="Search...">
+                        <button class="btn btn-outline-light" id="searchButton">
+                            <i class="bi bi-search"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container-fluid mt-4">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card mb-4">
+                    <div class="card-body">
+                        <div class="row align-items-center mb-4">
+                            <div class="col-md-6">
+                                <h2 class="card-title">Party Performance Analysis</h2>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="input-group">
+                                    <span class="input-group-text">Select Party</span>
+                                    <select class="form-select" id="partySelect">
+                                        <option value="" selected disabled>Select a party...</option>
+                                        <!-- Will be populated dynamically -->
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="banner-image mb-4">
+                            <img src="https://pixabay.com/get/g1e18b7f2b58580a24ae440ab70aee1cea3a973be8c6e9bd7e941cfdbb8e1a4ba796e09524dfab5545c1cd4e8df52b65a8709e1a3abc1561894340fcbe4cb86a8_1280.jpg" class="img-fluid rounded" alt="Election Symbols">
+                        </div>
+
+                        <div id="partyDetail" class="d-none">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="card mb-4">
+                                        <div class="card-body">
+                                            <h4 class="card-title">Seat Performance Over the Years</h4>
+                                            <div class="chart-container">
+                                                <canvas id="partySeatsChart"></canvas>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="card mb-4">
+                                        <div class="card-body">
+                                            <h4 class="card-title">Vote Share Percentage</h4>
+                                            <div class="chart-container">
+                                                <canvas id="partyVoteShareChart"></canvas>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="card mb-4">
+                                <div class="card-body">
+                                    <h4 class="card-title">Constituencies Won</h4>
+                                    <div class="table-responsive">
+                                        <table class="table table-striped" id="partyConstituenciesTable">
+                                            <thead>
+                                                <tr>
+                                                    <th>Year</th>
+                                                    <th>Constituency</th>
+                                                    <th>Candidate</th>
+                                                    <th>Margin %</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <!-- Will be populated dynamically -->
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="card mb-4">
+                                <div class="card-body">
+                                    <h4 class="card-title">State-wise Performance (Latest Election)</h4>
+                                    <div class="chart-container">
+                                        <canvas id="partyStateChart"></canvas>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div id="partyOverview">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="card mb-4">
+                                        <div class="card-body">
+                                            <h4 class="card-title">Major Parties Performance (2004-2024)</h4>
+                                            <div class="chart-container">
+                                                <canvas id="majorPartiesChart"></canvas>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="card mb-4">
+                                <div class="card-body">
+                                    <h4 class="card-title">All Parties</h4>
+                                    <div class="table-responsive">
+                                        <table class="table table-striped" id="allPartiesTable">
+                                            <thead>
+                                                <tr>
+                                                    <th>Party</th>
+                                                    <th>2004 Seats</th>
+                                                    <th>2009 Seats</th>
+                                                    <th>2014 Seats</th>
+                                                    <th>2019 Seats</th>
+                                                    <th>2024 Seats</th>
+                                                    <th>Total</th>
+                                                    <th>Action</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <!-- Will be populated dynamically -->
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Search Results Modal -->
+        <div class="modal fade" id="searchResultsModal" tabindex="-1">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">Search Results</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div id="searchResults">
+                            <!-- Will be populated dynamically -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="bg-dark text-white py-4 mt-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h5>India Lok Sabha Elections Dashboard</h5>
+                    <p>A comprehensive data visualization platform for analyzing Indian Lok Sabha election results.</p>
+                </div>
+                <div class="col-md-3">
+                    <h5>Quick Links</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="index.html" class="text-white">Overview</a></li>
+                        <li><a href="constituency.html" class="text-white">Constituencies</a></li>
+                        <li><a href="parties.html" class="text-white">Parties</a></li>
+                        <li><a href="trends.html" class="text-white">Trends</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <h5>Data Sources</h5>
+                    <p>Election Commission of India</p>
+                </div>
+            </div>
+            <hr>
+            <div class="text-center">
+                <p>&copy; 2024 India Elections Dashboard</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1/dist/chart.umd.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.4/js/dataTables.bootstrap5.min.js"></script>
+    <script src="assets/js/utils.js"></script>
+    <script src="assets/js/charts.js"></script>
+    <script src="assets/js/parties.js"></script>
+</body>
+</html>

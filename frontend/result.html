@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Election Result</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="form-section">
+        <h1 id="resultTitle">Results</h1>
+
+        <div id="winnerSection">
+            <h2>🏆 Winner</h2>
+            <p id="winnerDetails"></p>
+        </div>
+
+        <div id="runnerUpSection">
+            <h3>Runner-Up</h3>
+            <p id="runnerUpDetails"></p>
+        </div>
+
+        <h2>📊 Full Result Table</h2>
+        <div class="table-responsive">
+            <table id="resultTable">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Constituency</th>
+                        <th>State</th>
+                        <th>Candidate</th>
+                        <th>Party</th>
+                        <th>Electors</th>
+                        <th>Votes</th>
+                        <th>Turnout</th>
+                    </tr>
+                </thead>
+                <tbody id="resultTableBody">
+                    <!-- Results will be populated dynamically -->
+                </tbody>
+            </table>
+        </div>
+
+        <a href="/" class="btn">🔙 Back</a>
+    </div>
+
+    <script src="/frontend/result.js"></script>
+</body>
+</html>

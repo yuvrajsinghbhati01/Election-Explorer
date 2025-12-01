@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Constituency Type Analysis - Lok Sabha Elections Explorer</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <nav class="navbar navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">
+                <i class="fas fa-vote-yea"></i> Lok Sabha Elections Explorer
+            </a>
+        </div>
+    </nav>
+
+    <div class="jumbotron jumbotron-fluid constituency-types-header">
+        <div class="container text-white text-center">
+            <h1 class="display-4">Constituency Type Analysis</h1>
+            <p class="lead">Explore SC, ST, and General constituency performance across election years</p>
+        </div>
+    </div>
+
+    <div class="container mt-4 mb-5">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header bg-dark text-white">
+                        <h4><i class="fas fa-filter"></i> Filter Options</h4>
+                    </div>
+                    <div class="card-body">
+                        <form id="constituencyTypeForm">
+                            <div class="form-group">
+                                <label for="constituencyType"><strong>Select Constituency Type:</strong></label>
+                                <select class="form-control" id="constituencyType">
+                                    <option value="">All Types</option>
+                                    <option value="GEN">General</option>
+                                    <option value="SC">Scheduled Caste (SC)</option>
+                                    <option value="ST">Scheduled Tribe (ST)</option>
+                                </select>
+                                <small class="form-text text-muted">Select a constituency type to view detailed analysis</small>
+                            </div>
+                            <button type="submit" class="btn btn-dark btn-block">Analyze</button>
+                        </form>
+                    </div>
+                </div>
+
+                <div class="card mb-4">
+                    <div class="card-header bg-secondary text-white">
+                        <h4><i class="fas fa-info-circle"></i> About Constituency Types</h4>
+                    </div>
+                    <div class="card-body">
+                        <p>In India's electoral system, constituencies are categorized into three main types:</p>
+                        <ul>
+                            <li><strong>General:</strong> Open to all candidates</li>
+                            <li><strong>SC (Scheduled Caste):</strong> Reserved for SC candidates</li>
+                            <li><strong>ST (Scheduled Tribe):</strong> Reserved for ST candidates</li>
+                        </ul>
+                        <p>This analysis explores how these different types of constituencies have voted over the years and which parties have performed best in each category.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-8">
+                <div class="card mb-4">
+                    <div class="card-header bg-primary text-white">
+                        <h4><i class="fas fa-chart-bar"></i> Constituency Types Distribution</h4>
+                    </div>
+                    <div class="card-body">
+                        <div id="typesDistributionChart" style="height:400px;"></div>
+                    </div>
+                </div>
+                
+                <div id="analysisResults">
+                    <!-- Analysis results will be loaded here -->
+                    <div class="text-center my-5">
+                        <p>Select a constituency type above to view detailed analysis</p>
+                        <div class="spinner-border text-primary d-none" role="status">
+                            <span class="sr-only">Loading...</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="bg-dark text-white py-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h5>Lok Sabha Elections Explorer</h5>
+                    <p>A comprehensive data visualization platform for Indian Lok Sabha elections from 1952 to 2024.</p>
+                </div>
+                <div class="col-md-3">
+                    <h5>Quick Links</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="index.html" class="text-white">Home</a></li>
+                        <li><a href="dashboard.html" class="text-white">Dashboard</a></li>
+                        <li><a href="constituencies.html" class="text-white">Constituencies</a></li>
+                        <li><a href="parties.html" class="text-white">Parties</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <h5>Data Sources</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="https://eci.gov.in/" target="_blank" class="text-white">Election Commission of India</a></li>
+                        <li><a href="https://www.indiavotes.com/" target="_blank" class="text-white">India Votes</a></li>
+                    </ul>
+                </div>
+            </div>
+            <hr>
+            <div class="text-center">
+                <p>&copy; 2025 Lok Sabha Elections Explorer</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/constituency-types.js"></script>
+</body>
+</html>
